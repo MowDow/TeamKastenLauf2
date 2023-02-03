@@ -74,6 +74,7 @@
     {"id":{"name":"obj_Enemy17","path":"objects/obj_Enemy17/obj_Enemy17.yy",},"order":0,},
     {"id":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"order":0,},
     {"id":{"name":"spr_bush1","path":"sprites/spr_bush1/spr_bush1.yy",},"order":0,},
+    {"id":{"name":"obj_Enemyfaster","path":"objects/obj_Enemyfaster/obj_Enemyfaster.yy",},"order":0,},
     {"id":{"name":"spr_Collision","path":"sprites/spr_Collision/spr_Collision.yy",},"order":0,},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},"order":0,},
     {"id":{"name":"obj_house3","path":"objects/obj_house3/obj_house3.yy",},"order":0,},

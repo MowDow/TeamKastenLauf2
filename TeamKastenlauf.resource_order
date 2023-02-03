@@ -54,6 +54,7 @@
     {"name":"spr_PlayerAtt","order":3,"path":"sprites/spr_PlayerAtt/spr_PlayerAtt.yy",},
     {"name":"obj_Enemy17","order":4,"path":"objects/obj_Enemy17/obj_Enemy17.yy",},
     {"name":"spr_bush1","order":3,"path":"sprites/spr_bush1/spr_bush1.yy",},
+    {"name":"obj_Enemyfaster","order":4,"path":"objects/obj_Enemyfaster/obj_Enemyfaster.yy",},
     {"name":"spr_Collision","order":2,"path":"sprites/spr_Collision/spr_Collision.yy",},
     {"name":"obj_house3","order":2,"path":"objects/obj_house3/obj_house3.yy",},
     {"name":"obj_button_help","order":4,"path":"objects/obj_button_help/obj_button_help.yy",},
