@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/citystuff.yy",
+    "name": "house",
+    "path": "folders/Workbenches/WB_Andrew/Sprites/house.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff.yy",
+    "name": "plants",
+    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff/plants.yy",
   },
   "parentObjectId": null,
   "persistent": false,
