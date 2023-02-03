@@ -25,7 +25,9 @@ if ((hSpeed != 0 or vSpeed != 0))
 	}
 	x += hSpeed;
 	y += vSpeed;
+	if (!alarm[0]){
 	sprite_index = spr_PlayerRun;
+	}
 	draw_self();
 }
 	
@@ -36,8 +38,10 @@ if (hSpeed != 0)
 
 if (hSpeed = 0 and vSpeed = 0)
 {
+	if (!alarm[0]){
 	sprite_index = spr_Player;
 	draw_self();
+	}
 }	
 
 //Collision
@@ -53,6 +57,6 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 if (keyAtt)
 {
-	alarm[0]
+	alarm[0] = 20;
 	sprite_index = spr_PlayerAtt;
 }

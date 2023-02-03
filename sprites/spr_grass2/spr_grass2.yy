@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/citystuff.yy",
+    "name": "plants",
+    "path": "folders/Workbenches/WB_Andrew/Sprites/citystuff/plants.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

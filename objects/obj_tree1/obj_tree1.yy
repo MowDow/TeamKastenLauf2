@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_house5",
+  "name": "obj_tree1",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "house",
-    "path": "folders/Workbenches/WB_Andrew/Objects/house.yy",
+    "name": "plants",
+    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff/plants.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_house5",
-    "path": "sprites/spr_house5/spr_house5.yy",
+    "name": "spr_tree1",
+    "path": "sprites/spr_tree1/spr_tree1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
