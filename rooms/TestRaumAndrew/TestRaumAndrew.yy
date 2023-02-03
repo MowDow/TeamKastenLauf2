@@ -8,20 +8,14 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_5E96F951","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
-    {"name":"inst_14BB51C8","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
-    {"name":"inst_50E0F03F","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
-    {"name":"inst_517F5F4F","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
     {"name":"inst_60410548","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
     {"name":"inst_42F7D123","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
     {"name":"inst_61B95E1A","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
   ],
   "isDnd": false,
   "layers": [
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Street","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5E96F951","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"properties":[],"rotation":0.0,"scaleX":0.6,"scaleY":0.4,"x":0.0,"y":448.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14BB51C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"properties":[],"rotation":0.0,"scaleX":1.45,"scaleY":1.45,"x":-160.0,"y":-64.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_50E0F03F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_house2","path":"objects/obj_house2/obj_house2.yy",},"properties":[],"rotation":0.0,"scaleX":1.45,"scaleY":1.45,"x":256.0,"y":-32.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_517F5F4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_house3","path":"objects/obj_house3/obj_house3.yy",},"properties":[],"rotation":0.0,"scaleX":1.45,"scaleY":1.45,"x":736.0,"y":-64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60410548","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"properties":[],"rotation":0.0,"scaleX":-0.6,"scaleY":0.4,"x":2592.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_42F7D123","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"properties":[],"rotation":0.0,"scaleX":-0.6,"scaleY":0.4,"x":3888.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_61B95E1A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"properties":[],"rotation":0.0,"scaleX":0.6,"scaleY":0.4,"x":3872.0,"y":448.0,},
