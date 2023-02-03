@@ -1,15 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Enemy17",
+  "name": "obj_Player17",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "WB_Mow",
-    "path": "folders/Workbenches/WB_Mow.yy",
+    "name": "Objects",
+    "path": "folders/Workbenches/WB_Max/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,9 +30,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Enemy",
-    "path": "sprites/spr_Enemy/spr_Enemy.yy",
+    "name": "spr_Player",
+    "path": "sprites/spr_Player/spr_Player.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_Player",
+    "path": "sprites/spr_Player/spr_Player.yy",
+  },
   "visible": true,
 }
