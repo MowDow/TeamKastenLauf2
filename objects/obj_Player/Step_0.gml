@@ -53,8 +53,6 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 if (keyAtt)
 {
-	if(sprite_index == spr_Player)
-	{
-		sprite_index = spr_Player;	
-	}
+	alarm[0]
+	sprite_index = spr_PlayerAtt;
 }
