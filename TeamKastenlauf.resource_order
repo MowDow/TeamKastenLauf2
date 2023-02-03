@@ -62,6 +62,7 @@
     {"name":"obj_house3","order":2,"path":"objects/obj_house3/obj_house3.yy",},
     {"name":"spr_house4","order":7,"path":"sprites/spr_house4/spr_house4.yy",},
     {"name":"obj_button_help","order":4,"path":"objects/obj_button_help/obj_button_help.yy",},
+    {"name":"obj_Enemyfaster25","order":5,"path":"objects/obj_Enemyfaster25/obj_Enemyfaster25.yy",},
     {"name":"spr_grass1","order":4,"path":"sprites/spr_grass1/spr_grass1.yy",},
     {"name":"obj_bush1","order":3,"path":"objects/obj_bush1/obj_bush1.yy",},
     {"name":"obj_grass1","order":4,"path":"objects/obj_grass1/obj_grass1.yy",},
