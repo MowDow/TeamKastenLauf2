@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bush3",
+  "name": "obj_grass2",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bush3",
-    "path": "sprites/spr_bush3/spr_bush3.yy",
+    "name": "spr_grass2",
+    "path": "sprites/spr_grass2/spr_grass2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

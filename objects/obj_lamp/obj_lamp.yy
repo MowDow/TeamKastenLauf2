@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_bush3",
+  "name": "obj_lamp",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_bush3",
-    "path": "sprites/spr_bush3/spr_bush3.yy",
+    "name": "spr_lamp",
+    "path": "sprites/spr_lamp/spr_lamp.yy",
   },
   "spriteMaskId": null,
   "visible": true,
