@@ -123,6 +123,7 @@
     {"id":{"name":"Timeline1","path":"timelines/Timeline1/Timeline1.yy",},"order":0,},
     {"id":{"name":"baum2","path":"sprites/baum2/baum2.yy",},"order":0,},
     {"id":{"name":"spr_fenceend","path":"sprites/spr_fenceend/spr_fenceend.yy",},"order":0,},
+    {"id":{"name":"obj_button_MowMenu","path":"objects/obj_button_MowMenu/obj_button_MowMenu.yy",},"order":0,},
     {"id":{"name":"obj_Enemyfaster","path":"objects/obj_Enemyfaster/obj_Enemyfaster.yy",},"order":0,},
     {"id":{"name":"spr_laus","path":"sprites/spr_laus/spr_laus.yy",},"order":0,},
     {"id":{"name":"Sprite74","path":"sprites/Sprite74/Sprite74.yy",},"order":0,},
