@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_hundehuette3",
+  "name": "obj_human",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "countrystuff",
-    "path": "folders/Workbenches/WB_Andrew/Objects/countrystuff.yy",
+    "name": "Objects",
+    "path": "folders/Workbenches/WB_Andrew/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_hundehuette3",
-    "path": "sprites/spr_hundehuette3/spr_hundehuette3.yy",
+    "name": "gif_human",
+    "path": "sprites/gif_human/gif_human.yy",
   },
   "spriteMaskId": null,
   "visible": true,

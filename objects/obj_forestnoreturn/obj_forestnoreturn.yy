@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_hundehuette3",
+  "name": "obj_forestnoreturn",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_hundehuette3",
-    "path": "sprites/spr_hundehuette3/spr_hundehuette3.yy",
+    "name": "spr_forestnoreturn",
+    "path": "sprites/spr_forestnoreturn/spr_forestnoreturn.yy",
   },
   "spriteMaskId": null,
   "visible": true,

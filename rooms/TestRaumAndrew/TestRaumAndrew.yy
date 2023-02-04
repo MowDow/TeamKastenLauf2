@@ -1793,6 +1793,7 @@
     {"name":"inst_4F09DD03","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
     {"name":"inst_4B7DF18F","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
     {"name":"inst_8D4EFC0","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
+    {"name":"inst_5461D506","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -3545,6 +3546,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12D21AE8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_carton","path":"objects/obj_carton/obj_carton.yy",},"properties":[],"rotation":0.0,"scaleX":0.48553056,"scaleY":0.6971609,"x":11264.0,"y":576.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_31074C2D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_beer","path":"objects/obj_beer/obj_beer.yy",},"properties":[],"rotation":0.0,"scaleX":0.49473685,"scaleY":0.5362319,"x":832.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2D1BBAE6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_beer","path":"objects/obj_beer/obj_beer.yy",},"properties":[],"rotation":0.0,"scaleX":0.6631579,"scaleY":0.5362319,"x":6432.0,"y":416.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5461D506","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_rageqtown","path":"objects/obj_rageqtown/obj_rageqtown.yy",},"properties":[],"rotation":0.0,"scaleX":0.744,"scaleY":0.68,"x":-32.0,"y":288.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"House","depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_593849D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"properties":[],"rotation":0.0,"scaleX":1.3,"scaleY":1.3,"x":64.0,"y":-32.0,},

@@ -1,23 +1,25 @@
 /// @description Insert description here
 // You can write your code in this editor
+/// @description Insert description here
+// You can write your code in this editor
 hspeed = 0
 vspeed = 0
 
 
 var distanceX = obj_Player.x - x;
 var distanceY = obj_Player.y - y;
-var movespeed = 1
+var movespeed = 2
 
 if instance_exists(obj_Player) {
 	
 	if obj_Player.x < x {
 	hspeed = hspeed - movespeed	
-	image_xscale = -0.3
+	image_xscale = 0.5
 	}
 
 	if obj_Player.x > x {
 	hspeed = hspeed + movespeed 
-	image_xscale = 0.3
+	image_xscale = -0.5
 	}
 
 	if distanceX < movespeed  and distanceX > -movespeed {
@@ -39,9 +41,4 @@ if instance_exists(obj_Player) {
 	vspeed = 0 
 	y = obj_Player.y 
 	}
-}
-
-if(!audio_is_playing(snd_snail))
-{
-	audio_play_sound(snd_snail,1,true,2)
 }

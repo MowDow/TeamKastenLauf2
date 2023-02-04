@@ -1,4 +1,5 @@
 //Hit enemy
+
 if (place_meeting(x,y,other)) and invincible = false and hearts > 0
 	{
 			obj_Player.hearts--;
@@ -24,3 +25,4 @@ if (place_meeting(x,y,other)) and invincible = false and hearts > 0
 			alarm[3] = 30
 			 
 	}
+	
