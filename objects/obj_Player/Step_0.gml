@@ -111,3 +111,19 @@ if (keyAtt) and attacktime = 0
 //{
 //	hearts--;	
 //}
+
+
+//death
+if hearts <= 0
+	{
+		if sprite_index != spr_playerdeath
+		image_index = 0
+		sprite_index = spr_playerdeath
+		
+		hspeed = 0
+		vspeed = 0
+		
+		if image_index = sprite_get_number
+		{room_goto(MainMenu)}
+		//HIER GAME OVER SCREEN
+	}
