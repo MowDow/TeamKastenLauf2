@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"draw_shadow","order":1,"path":"scripts/draw_shadow/draw_shadow.yy",},
+  ],
 }

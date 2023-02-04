@@ -151,6 +151,7 @@
     {"id":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"order":0,},
     {"id":{"name":"obj_skyDorf","path":"objects/obj_skyDorf/obj_skyDorf.yy",},"order":0,},
     {"id":{"name":"spr_HeartEmpty","path":"sprites/spr_HeartEmpty/spr_HeartEmpty.yy",},"order":0,},
+    {"id":{"name":"draw_shadow","path":"scripts/draw_shadow/draw_shadow.yy",},"order":0,},
     {"id":{"name":"spr_car2","path":"sprites/spr_car2/spr_car2.yy",},"order":0,},
     {"id":{"name":"spr_backgrounddark","path":"sprites/spr_backgrounddark/spr_backgrounddark.yy",},"order":0,},
     {"id":{"name":"obj_car_parent","path":"objects/obj_car_parent/obj_car_parent.yy",},"order":0,},

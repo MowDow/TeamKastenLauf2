@@ -1,4 +1,3 @@
-
 //Get Player Input
 
 //Rennen
@@ -40,7 +39,6 @@ if ((hSpeed != 0 or vSpeed != 0))
 	if (!alarm[0]){
 	sprite_index = spr_PlayerRun;
 	}
-	draw_self();
 }
 	
 if (hSpeed != 0)
@@ -52,7 +50,6 @@ if (hSpeed = 0 and vSpeed = 0)
 {
 	if (!alarm[0]){
 	sprite_index = spr_Player;
-	draw_self();
 	}
 }	
 }
@@ -108,7 +105,6 @@ if (keyAtt) and attacktime = 0
 	}
 	alarm[0] = 20;
 	sprite_index = spr_PlayerAtt;
-	draw_self();
 }
 
 //if (mouse_check_button_pressed(mb_left))
