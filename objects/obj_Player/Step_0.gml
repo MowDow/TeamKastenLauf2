@@ -1,4 +1,12 @@
 //Get Player Input
+
+//Rennen
+//if mouse_check_button_pressed(mb_left)
+//	{speedWalk = speedWalk_norm*2}
+//if mouse_check_button_released(mb_left)
+//	{speedWalk = speedWalk_norm}
+
+
 keyLeft = keyboard_check(vk_left) || keyboard_check(ord("A"));
 keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
 keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
@@ -98,7 +106,7 @@ if (keyAtt) and attacktime = 0
 	draw_self();
 }
 
-if (mouse_check_button_pressed(mb_left))
-{
-	hearts--;	
-}
+//if (mouse_check_button_pressed(mb_left))
+//{
+//	hearts--;	
+//}

@@ -1,6 +1,7 @@
 hSpeed = 0;
 vSpeed = 0;
-speedWalk = 5.0;
+speedWalk_norm = 6.0;
+speedWalk = speedWalk_norm
 hearts = 3;
 InvincibleTimer = 120;
 invincible = false
