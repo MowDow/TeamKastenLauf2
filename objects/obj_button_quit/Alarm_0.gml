@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(Raum_Mow);
+room_goto(r_Dorf);
 
