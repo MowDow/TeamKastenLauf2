@@ -618,6 +618,7 @@
     {"name":"inst_40F63309","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_68426CA2","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_5245D4E9","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_1EEC6365","path":"rooms/Level3/Level3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -1235,6 +1236,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_666D23B2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_backgrounddark","path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.808,"x":9600.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_742BE4A8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_backgrounddark","path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},"properties":[],"rotation":0.0,"scaleX":-1.0,"scaleY":0.808,"x":11520.0,"y":0.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_DCFD5DA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_backgrounddark","path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.808,"x":11520.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1EEC6365","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":-32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"street","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22A41352","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_countryway","path":"objects/obj_countryway/obj_countryway.yy",},"properties":[],"rotation":0.0,"scaleX":2.769487,"scaleY":2.28,"x":0.0,"y":0.0,},
