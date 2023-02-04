@@ -10,11 +10,11 @@ x = (random_range(100, 13000));
 /// @DnDVersion : 1
 /// @DnDHash : 4C353828
 /// @DnDArgument : "xpos" "x"
-/// @DnDArgument : "ypos" "450"
+/// @DnDArgument : "ypos" "600"
 /// @DnDArgument : "objectid" "obj_chickenwalk"
 /// @DnDArgument : "layer" ""enemy""
 /// @DnDSaveInfo : "objectid" "obj_chickenwalk"
-instance_create_layer(x, 450, "enemy", obj_chickenwalk);
+instance_create_layer(x, 600, "enemy", obj_chickenwalk);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
