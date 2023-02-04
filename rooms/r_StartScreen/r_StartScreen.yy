@@ -8,6 +8,12 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_197A4CE8_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
+    {"name":"inst_799F3B82_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
+    {"name":"inst_60F0C890_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
+    {"name":"inst_1D8733DC_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
+    {"name":"inst_1788FF65_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
+    {"name":"inst_2BB6EC3C_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
+    {"name":"inst_197A4CE8_1_1","path":"rooms/r_StartScreen/r_StartScreen.yy",},
   ],
   "isDnd": false,
   "layers": [
