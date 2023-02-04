@@ -1,4 +1,7 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_villageway2","order":1,"path":"sprites/spr_villageway2/spr_villageway2.yy",},
+    {"name":"obj_villageway2","order":1,"path":"objects/obj_villageway2/obj_villageway2.yy",},
+  ],
 }
