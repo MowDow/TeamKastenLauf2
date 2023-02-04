@@ -251,6 +251,7 @@
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"order":0,},
     {"id":{"name":"obj_startC2","path":"objects/obj_startC2/obj_startC2.yy",},"order":0,},
     {"id":{"name":"obj_drygrass","path":"objects/obj_drygrass/obj_drygrass.yy",},"order":0,},
+    {"id":{"name":"obj_chickenspawner","path":"objects/obj_chickenspawner/obj_chickenspawner.yy",},"order":0,},
     {"id":{"name":"obj_gullydeckel","path":"objects/obj_gullydeckel/obj_gullydeckel.yy",},"order":0,},
     {"id":{"name":"Sprite6473","path":"sprites/Sprite6473/Sprite6473.yy",},"order":0,},
     {"id":{"name":"obj_en_Snail","path":"objects/obj_en_Snail/obj_en_Snail.yy",},"order":0,},

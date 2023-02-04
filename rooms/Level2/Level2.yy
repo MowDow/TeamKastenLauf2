@@ -226,7 +226,6 @@
     {"name":"inst_E04347A","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_2163ECBD","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_6C8D12E5","path":"rooms/Level2/Level2.yy",},
-    {"name":"inst_9229799","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_34298AD5","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_74A436A2","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_6D4A67E3","path":"rooms/Level2/Level2.yy",},
@@ -261,7 +260,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_29335E7B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_Snail","path":"objects/obj_en_Snail/obj_en_Snail.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":12768.0,"y":1024.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Gamecontroller","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9229799","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lausspawner","path":"objects/obj_lausspawner/obj_lausspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_34298AD5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_snailspawner","path":"objects/obj_snailspawner/obj_snailspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65BAFFAB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6F92013E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_audio_controller_village","path":"objects/obj_audio_controller_village/obj_audio_controller_village.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":224.0,},
