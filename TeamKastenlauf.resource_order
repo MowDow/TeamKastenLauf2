@@ -3,5 +3,6 @@
   "ResourceOrderSettings": [
     {"name":"obj_par_Enemy","order":2,"path":"objects/obj_par_Enemy/obj_par_Enemy.yy",},
     {"name":"obj_en_Snail","order":1,"path":"objects/obj_en_Snail/obj_en_Snail.yy",},
+    {"name":"obj_enemyspawner","order":1,"path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},
   ],
 }
