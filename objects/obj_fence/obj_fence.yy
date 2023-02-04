@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tree5",
+  "name": "obj_fence",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "plants",
-    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff/plants.yy",
+    "name": "countrystuff",
+    "path": "folders/Workbenches/WB_Andrew/Objects/countrystuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tree5",
-    "path": "sprites/spr_tree5/spr_tree5.yy",
+    "name": "spr_fence",
+    "path": "sprites/spr_fence/spr_fence.yy",
   },
   "spriteMaskId": null,
   "visible": true,
