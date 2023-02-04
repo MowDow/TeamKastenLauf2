@@ -1,20 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_en_laus",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_car1",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "cars",
+    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff/cars.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_Enemy",
-    "path": "objects/obj_par_Enemy/obj_par_Enemy.yy",
+    "name": "obj_car_parent",
+    "path": "objects/obj_car_parent/obj_car_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_laus",
-    "path": "sprites/spr_laus/spr_laus.yy",
+    "name": "spr_car1",
+    "path": "sprites/spr_car1/spr_car1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

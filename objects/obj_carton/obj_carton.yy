@@ -1,21 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_en_laus",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_carton",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Enemies.yy",
+    "name": "citystuff",
+    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff.yy",
   },
-  "parentObjectId": {
-    "name": "obj_par_Enemy",
-    "path": "objects/obj_par_Enemy/obj_par_Enemy.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_laus",
-    "path": "sprites/spr_laus/spr_laus.yy",
+    "name": "spr_carton",
+    "path": "sprites/spr_carton/spr_carton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

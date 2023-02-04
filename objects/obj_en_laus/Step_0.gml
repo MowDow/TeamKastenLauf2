@@ -6,7 +6,7 @@ vspeed = 0
 
 var distanceX = obj_Player.x - x;
 var distanceY = obj_Player.y - y;
-var movespeed = 3
+var movespeed = 2
 
 if obj_Player.x < x {
 hspeed = hspeed - movespeed	
