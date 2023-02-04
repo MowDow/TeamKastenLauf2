@@ -4,9 +4,11 @@
     {"name":"Paths","order":8,"path":"folders/Objects/Menu/Paths.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"grafik","order":3,"path":"sprites/grafik/grafik.yy",},
     {"name":"obj_controls","order":7,"path":"objects/obj_controls/obj_controls.yy",},
     {"name":"obj_par_Enemy","order":2,"path":"objects/obj_par_Enemy/obj_par_Enemy.yy",},
     {"name":"obj_button_credits","order":11,"path":"objects/obj_button_credits/obj_button_credits.yy",},
+    {"name":"obj_button_cutscene","order":12,"path":"objects/obj_button_cutscene/obj_button_cutscene.yy",},
     {"name":"obj_credits","order":10,"path":"objects/obj_credits/obj_credits.yy",},
     {"name":"obj_button_help","order":1,"path":"objects/obj_button_help/obj_button_help.yy",},
     {"name":"obj_button_play","order":3,"path":"objects/obj_button_play/obj_button_play.yy",},
@@ -16,6 +18,8 @@
     {"name":"f_MainMenu","order":5,"path":"fonts/f_MainMenu/f_MainMenu.yy",},
     {"name":"r_credits","order":1,"path":"rooms/r_credits/r_credits.yy",},
     {"name":"obj_en_Snail","order":1,"path":"objects/obj_en_Snail/obj_en_Snail.yy",},
+    {"name":"seq_End","order":2,"path":"sequences/seq_End/seq_End.yy",},
+    {"name":"r_EndCutscene","order":1,"path":"rooms/r_EndCutscene/r_EndCutscene.yy",},
     {"name":"obj_enemyspawner","order":1,"path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},
   ],
 }
