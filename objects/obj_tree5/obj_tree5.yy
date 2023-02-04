@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oHeart2",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_tree5",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Workbenches/WB_Max/Objects.yy",
+    "name": "plants",
+    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff/plants.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_Heart",
-    "path": "sprites/spr_Heart/spr_Heart.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
