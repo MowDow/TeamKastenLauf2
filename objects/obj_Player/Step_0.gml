@@ -9,8 +9,11 @@ inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
 //Movement
+
+if sprite_index != spr_PlayerAtt{
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
+
 
 if ((hSpeed != 0 or vSpeed != 0))
 {
@@ -43,6 +46,8 @@ if (hSpeed = 0 and vSpeed = 0)
 	draw_self();
 	}
 }	
+}
+
 
 //Collision
 if (place_meeting(x+hSpeed, y, obj_collision)) //If my player is about to horizontally collide with a wall.
@@ -55,9 +60,15 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 	vSpeed = 0; //Stop moving horizontally.
 }
 
-if (keyAtt)
+
+//Attack
+if attacktime > 0 {attacktime--}
+
+if (keyAtt) and attacktime = 0
 {
 	{
+	attacktime = attacktime_max
+		
 	if (audio_is_playing(aud_PlayerPunch))
 	audio_stop_sound(aud_PlayerPunch)
 		
@@ -79,6 +90,3 @@ if (mouse_check_button_pressed(mb_left))
 {
 	hearts--;	
 }
-
-
-
