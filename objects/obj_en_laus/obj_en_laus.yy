@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Snail",
+  "name": "obj_en_laus",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Snail",
-    "path": "folders/Sprites/Enemies/Snail.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_snaill",
-    "path": "sprites/spr_snaill/spr_snaill.yy",
+    "name": "spr_laus",
+    "path": "sprites/spr_laus/spr_laus.yy",
   },
   "spriteMaskId": null,
   "visible": true,
