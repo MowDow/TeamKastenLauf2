@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_start3",
-    "path": "sprites/spr_start3/spr_start3.yy",
+    "name": "spr_start3fix",
+    "path": "sprites/spr_start3fix/spr_start3fix.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -18,6 +18,7 @@
     {"name":"obj_startC3","order":11,"path":"objects/obj_startC3/obj_startC3.yy",},
     {"name":"obj_button_restart","order":1,"path":"objects/obj_button_restart/obj_button_restart.yy",},
     {"name":"Sprite82","order":6,"path":"sprites/Sprite82/Sprite82.yy",},
+    {"name":"spr_start3fix","order":13,"path":"sprites/spr_start3fix/spr_start3fix.yy",},
     {"name":"spr_start3","order":3,"path":"sprites/spr_start3/spr_start3.yy",},
     {"name":"obj_text1","order":7,"path":"objects/obj_text1/obj_text1.yy",},
     {"name":"spr_chickenwalk","order":1,"path":"sprites/spr_chickenwalk/spr_chickenwalk.yy",},
