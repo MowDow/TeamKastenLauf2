@@ -15,6 +15,7 @@
     {"name":"grafik","order":8,"path":"sprites/grafik/grafik.yy",},
     {"name":"spr_playerdeath","order":2,"path":"sprites/spr_playerdeath/spr_playerdeath.yy",},
     {"name":"obj_controls","order":7,"path":"objects/obj_controls/obj_controls.yy",},
+    {"name":"oDebug","order":1,"path":"objects/oDebug/oDebug.yy",},
     {"name":"obj_par_Enemy","order":2,"path":"objects/obj_par_Enemy/obj_par_Enemy.yy",},
     {"name":"spr_carton","order":3,"path":"sprites/spr_carton/spr_carton.yy",},
     {"name":"obj_carton","order":3,"path":"objects/obj_carton/obj_carton.yy",},
