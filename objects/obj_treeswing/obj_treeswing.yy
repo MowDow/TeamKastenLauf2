@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_treeswing",
+    "path": "sprites/spr_treeswing/spr_treeswing.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
