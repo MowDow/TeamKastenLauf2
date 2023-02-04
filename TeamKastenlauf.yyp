@@ -162,6 +162,7 @@
     {"id":{"name":"obj_startC3","path":"objects/obj_startC3/obj_startC3.yy",},"order":0,},
     {"id":{"name":"TestRaumAndrew","path":"rooms/TestRaumAndrew/TestRaumAndrew.yy",},"order":0,},
     {"id":{"name":"spr_skyDorf","path":"sprites/spr_skyDorf/spr_skyDorf.yy",},"order":0,},
+    {"id":{"name":"obj_button_restart","path":"objects/obj_button_restart/obj_button_restart.yy",},"order":0,},
     {"id":{"name":"obj_beer","path":"objects/obj_beer/obj_beer.yy",},"order":0,},
     {"id":{"name":"baum3","path":"sprites/baum3/baum3.yy",},"order":0,},
     {"id":{"name":"spr_fontaine1","path":"sprites/spr_fontaine1/spr_fontaine1.yy",},"order":0,},

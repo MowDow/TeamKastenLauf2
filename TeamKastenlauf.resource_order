@@ -16,6 +16,7 @@
     {"name":"Sprite83","order":1,"path":"sprites/Sprite83/Sprite83.yy",},
     {"name":"r_StartScreen4","order":3,"path":"rooms/r_StartScreen4/r_StartScreen4.yy",},
     {"name":"obj_startC3","order":11,"path":"objects/obj_startC3/obj_startC3.yy",},
+    {"name":"obj_button_restart","order":1,"path":"objects/obj_button_restart/obj_button_restart.yy",},
     {"name":"Sprite82","order":6,"path":"sprites/Sprite82/Sprite82.yy",},
     {"name":"spr_start3","order":3,"path":"sprites/spr_start3/spr_start3.yy",},
     {"name":"obj_text1","order":7,"path":"objects/obj_text1/obj_text1.yy",},
