@@ -3,8 +3,8 @@
 /// @DnDHash : 624554F3
 /// @DnDArgument : "var" "x"
 /// @DnDArgument : "min" "100"
-/// @DnDArgument : "max" "1800"
-x = (random_range(100, 1800));
+/// @DnDArgument : "max" "13800"
+x = (random_range(100, 13800));
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
