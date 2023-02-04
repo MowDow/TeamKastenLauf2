@@ -1,12 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Player",
+  "name": "oHeart3",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":82,"eventType":9,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -31,12 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Player",
-    "path": "sprites/spr_Player/spr_Player.yy",
+    "name": "spr_Heart",
+    "path": "sprites/spr_Heart/spr_Heart.yy",
   },
-  "spriteMaskId": {
-    "name": "spr_Player",
-    "path": "sprites/spr_Player/spr_Player.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
