@@ -72,11 +72,30 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 
 //Heal
-if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim{
+if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim and path_index = -1 and hearts != 0{
 sprite_index = spr_PlayerSitAnim}
 
 if sprite_index = spr_PlayerSitAnim and image_index = 4
 {sprite_index = spr_PlayerSit}
+
+ 
+
+if room = Level2 {max_hearttime = 70}
+if room = Level3 {max_hearttime = 100}
+
+
+
+	if sprite_index = spr_PlayerSit
+	{
+		if hearts != 3{
+		
+			hearttime -= 1
+		
+			if hearttime = 0{
+				hearttime = max_hearttime
+				hearts += 1}
+		}
+	}
 
 
 

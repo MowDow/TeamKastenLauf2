@@ -8,3 +8,6 @@ InvincibleTimer = 120;
 invincible = false
 attacktime = 0
 attacktime_max = 20
+
+max_hearttime = 50
+var hearttime = max_hearttime
