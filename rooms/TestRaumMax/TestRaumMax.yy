@@ -73,7 +73,6 @@
     {"name":"inst_6DEB4B37","path":"rooms/TestRaumMax/TestRaumMax.yy",},
     {"name":"inst_56308B4E","path":"rooms/TestRaumMax/TestRaumMax.yy",},
     {"name":"inst_191A69FD","path":"rooms/TestRaumMax/TestRaumMax.yy",},
-    {"name":"inst_2BECC92D","path":"rooms/TestRaumMax/TestRaumMax.yy",},
   ],
   "isDnd": false,
   "layers": [
