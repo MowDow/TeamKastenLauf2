@@ -57,13 +57,16 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 if (keyAtt)
 {
-	if ((lengthdir_x(x,obj_par_Enemy.x) and lengthdir_y(y,obj_par_Enemy.y)) < 100)
+	if(instance_exists(obj_par_Enemy))
 	{
-		instance_destroy(instance_nearest(x,y,obj_par_Enemy))	
+		if (distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 100)
+		{
+			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	
+		}
 	}
 	alarm[0] = 20;
 	sprite_index = spr_PlayerAtt;
-	
+	draw_self();
 }
 
 if (mouse_check_button_pressed(mb_left))
@@ -71,20 +74,23 @@ if (mouse_check_button_pressed(mb_left))
 	hearts--;	
 }
 
-with(obj_par_Enemy)
+if (instance_exists(obj_par_Enemy))
 {
-	if (place_meeting(x,y,other))
+	with(obj_par_Enemy)
 	{
-		obj_Player.hearts--;
-		x += 200;
-		obj_Player.x -= 200;
-		
-		//for(var InvincibleTimer = 120; InvincibleTimer = 0; InvincibleTimer --)
+		if (place_meeting(x,y,other))
 		{
-			//obj_Player.hSpeed = 0;
-			//obj_Player.vSpeed = 0;
-			//other.hspeed = 0;
-			//other.vspeed = 0;
+			obj_Player.hearts--;
+			x += 200;
+			obj_Player.x -= 200;
+		
+			//for(var InvincibleTimer = 120; InvincibleTimer = 0; InvincibleTimer --)
+			{
+				//obj_Player.hSpeed = 0;
+				//obj_Player.vSpeed = 0;
+				//other.hspeed = 0;
+				//other.vspeed = 0;
+			}
 		}
 	}
 }
