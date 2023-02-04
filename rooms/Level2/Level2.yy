@@ -249,6 +249,7 @@
     {"name":"inst_F4ACCF7","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_3046405D","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_1B8B0901","path":"rooms/Level2/Level2.yy",},
+    {"name":"inst_6F92013E","path":"rooms/Level2/Level2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -263,6 +264,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9229799","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lausspawner","path":"objects/obj_lausspawner/obj_lausspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_34298AD5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_snailspawner","path":"objects/obj_snailspawner/obj_snailspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65BAFFAB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6F92013E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_audio_controller_village","path":"objects/obj_audio_controller_village/obj_audio_controller_village.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":224.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"collider","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1CCCD685","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"properties":[],"rotation":0.0,"scaleX":432.0,"scaleY":1.0,"x":0.0,"y":1088.0,},
