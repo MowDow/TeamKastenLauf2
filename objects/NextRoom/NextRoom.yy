@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oHeart2",
+  "name": "NextRoom",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Workbenches/WB_Max/Objects.yy",
+    "name": "WB_Yara",
+    "path": "folders/Workbenches/WB_Yara.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,9 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Heart",
-    "path": "sprites/spr_Heart/spr_Heart.yy",
+    "name": "Sprite64",
+    "path": "sprites/Sprite64/Sprite64.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

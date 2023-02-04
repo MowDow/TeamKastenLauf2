@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lamp",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_villageway",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff.yy",
+    "name": "Objects",
+    "path": "folders/Workbenches/WB_Andrew/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_lamp",
-    "path": "sprites/spr_lamp/spr_lamp.yy",
+    "name": "spr_villageway",
+    "path": "sprites/spr_villageway/spr_villageway.yy",
   },
   "spriteMaskId": null,
   "visible": true,

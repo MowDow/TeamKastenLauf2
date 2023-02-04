@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "haesssliches_haus",
+  "name": "spr_uglyhouse",
   "bbox_bottom": 478,
   "bbox_left": 5,
   "bbox_right": 489,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Workbenches/WB_Mow/Sprites.yy",
+    "name": "house",
+    "path": "folders/Workbenches/WB_Andrew/Sprites/house.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "haesssliches_haus",
+    "name": "spr_uglyhouse",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ae837e74-b2e7-4692-8d2e-1528aabd3aa0","path":"sprites/haesssliches_haus/haesssliches_haus.yy",},},},"Disabled":false,"id":"1926473d-c5af-4ef7-a81d-651cbeab06aa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ae837e74-b2e7-4692-8d2e-1528aabd3aa0","path":"sprites/spr_uglyhouse/spr_uglyhouse.yy",},},},"Disabled":false,"id":"1926473d-c5af-4ef7-a81d-651cbeab06aa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
