@@ -2,6 +2,8 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"spr_villageway2","order":1,"path":"sprites/spr_villageway2/spr_villageway2.yy",},
+    {"name":"obj_audio_controller_menu","order":1,"path":"objects/obj_audio_controller_menu/obj_audio_controller_menu.yy",},
     {"name":"obj_villageway2","order":1,"path":"objects/obj_villageway2/obj_villageway2.yy",},
+    {"name":"aud_MenuBGM","order":1,"path":"sounds/aud_MenuBGM/aud_MenuBGM.yy",},
   ],
 }
