@@ -226,7 +226,7 @@
     {"id":{"name":"r_EndCutscene","path":"rooms/r_EndCutscene/r_EndCutscene.yy",},"order":0,},
     {"id":{"name":"obj_tree5","path":"objects/obj_tree5/obj_tree5.yy",},"order":0,},
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},"order":0,},
-    {"id":{"name":"Object65","path":"objects/Object65/Object65.yy",},"order":0,},
+    {"id":{"name":"NextRoom","path":"objects/NextRoom/NextRoom.yy",},"order":0,},
     {"id":{"name":"obj_bridge","path":"objects/obj_bridge/obj_bridge.yy",},"order":0,},
     {"id":{"name":"obj_snailspawner","path":"objects/obj_snailspawner/obj_snailspawner.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},

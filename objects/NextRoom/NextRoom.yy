@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object65",
+  "name": "NextRoom",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -32,5 +32,5 @@
     "path": "sprites/Sprite64/Sprite64.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
