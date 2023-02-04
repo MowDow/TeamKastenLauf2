@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "TeamKastenlauf",
-    "path": "TeamKastenlauf.yyp",
+    "name": "WB_Mow",
+    "path": "folders/Workbenches/WB_Mow.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
