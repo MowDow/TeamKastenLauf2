@@ -1,12 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"obj_fence","order":1,"path":"objects/obj_fence/obj_fence.yy",},
-    {"name":"spr_fenceend","order":2,"path":"sprites/spr_fenceend/spr_fenceend.yy",},
-    {"name":"spr_backgrounddark","order":1,"path":"sprites/spr_backgrounddark/spr_backgrounddark.yy",},
-    {"name":"spr_fence","order":1,"path":"sprites/spr_fence/spr_fence.yy",},
-    {"name":"obj_backgrounddark","order":1,"path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},
-    {"name":"obj_fenceend","order":2,"path":"objects/obj_fenceend/obj_fenceend.yy",},
+    {"name":"obj_corn","order":1,"path":"objects/obj_corn/obj_corn.yy",},
+    {"name":"spr_corn","order":1,"path":"sprites/spr_corn/spr_corn.yy",},
   ],
-  "ResourceOrderSettings": [],
 }
