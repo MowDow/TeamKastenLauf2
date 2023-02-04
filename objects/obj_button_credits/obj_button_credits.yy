@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_button",
-    "path": "sprites/s_button/s_button.yy",
+    "name": "credits",
+    "path": "sprites/credits/credits.yy",
   },
   "spriteMaskId": null,
   "visible": true,
