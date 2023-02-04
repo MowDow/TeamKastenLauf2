@@ -1,6 +1,19 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Probs","order":9,"path":"folders/Objects/Menu/Probs.yy",},
+    {"name":"Paths","order":8,"path":"folders/Objects/Menu/Paths.yy",},
+  ],
   "ResourceOrderSettings": [
+    {"name":"obj_controls","order":7,"path":"objects/obj_controls/obj_controls.yy",},
+    {"name":"obj_button_credits","order":11,"path":"objects/obj_button_credits/obj_button_credits.yy",},
+    {"name":"obj_credits","order":10,"path":"objects/obj_credits/obj_credits.yy",},
+    {"name":"obj_button_help","order":1,"path":"objects/obj_button_help/obj_button_help.yy",},
+    {"name":"obj_button_play","order":3,"path":"objects/obj_button_play/obj_button_play.yy",},
+    {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"obj_button_controls","order":6,"path":"objects/obj_button_controls/obj_button_controls.yy",},
+    {"name":"obj_button_parent","order":4,"path":"objects/obj_button_parent/obj_button_parent.yy",},
+    {"name":"f_MainMenu","order":5,"path":"fonts/f_MainMenu/f_MainMenu.yy",},
+    {"name":"r_credits","order":1,"path":"rooms/r_credits/r_credits.yy",},
     {"name":"obj_en_Snail","order":1,"path":"objects/obj_en_Snail/obj_en_Snail.yy",},
   ],
 }
