@@ -5,6 +5,7 @@
     {"name":"MainMenu","order":1,"path":"folders/Sprites/Menu/MainMenu.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_PlayerSitAnim","order":1,"path":"sprites/spr_PlayerSitAnim/spr_PlayerSitAnim.yy",},
     {"name":"oDebug","order":7,"path":"objects/oDebug/oDebug.yy",},
     {"name":"r_StartMenu","order":3,"path":"rooms/r_StartMenu/r_StartMenu.yy",},
     {"name":"Sprite74","order":7,"path":"sprites/Sprite74/Sprite74.yy",},
@@ -14,7 +15,6 @@
     {"name":"r_credits","order":1,"path":"rooms/r_credits/r_credits.yy",},
     {"name":"r_StartScreen","order":6,"path":"rooms/r_StartScreen/r_StartScreen.yy",},
     {"name":"Sprite73","order":6,"path":"sprites/Sprite73/Sprite73.yy",},
+    {"name":"spr_PlayerSit","order":2,"path":"sprites/spr_PlayerSit/spr_PlayerSit.yy",},
   ],
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
 }
