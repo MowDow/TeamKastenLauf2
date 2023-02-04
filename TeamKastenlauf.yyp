@@ -177,6 +177,7 @@
     {"id":{"name":"spr_grass1","path":"sprites/spr_grass1/spr_grass1.yy",},"order":0,},
     {"id":{"name":"obj_bush1","path":"objects/obj_bush1/obj_bush1.yy",},"order":0,},
     {"id":{"name":"Sprite82","path":"sprites/Sprite82/Sprite82.yy",},"order":0,},
+    {"id":{"name":"spr_start3fix","path":"sprites/spr_start3fix/spr_start3fix.yy",},"order":0,},
     {"id":{"name":"start","path":"sprites/start/start.yy",},"order":0,},
     {"id":{"name":"obj_street","path":"objects/obj_street/obj_street.yy",},"order":0,},
     {"id":{"name":"obj_skyDorf","path":"objects/obj_skyDorf/obj_skyDorf.yy",},"order":0,},
