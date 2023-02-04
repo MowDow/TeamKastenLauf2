@@ -1,21 +1,4 @@
 {
-"ResourceOrderSettings": [
-    {"name":"Sprite6473","order":1,"path":"sprites/Sprite6473/Sprite6473.yy",},
-  "FolderOrderSettings": [
-    {"name":"GameLevel","order":4,"path":"folders/Rooms/GameLevel.yy",},
-    {"name":"Menu","order":5,"path":"folders/Rooms/Menu.yy",},
-    {"name":"MainMenu","order":1,"path":"folders/Sprites/Menu/MainMenu.yy",},
-    {"name":"spr_PlayerSitAnim","order":1,"path":"sprites/spr_PlayerSitAnim/spr_PlayerSitAnim.yy",},
-    {"name":"oDebug","order":7,"path":"objects/oDebug/oDebug.yy",},
-    {"name":"r_StartMenu","order":3,"path":"rooms/r_StartMenu/r_StartMenu.yy",},
-    {"name":"obj_button_MowMenu","order":1,"path":"objects/obj_button_MowMenu/obj_button_MowMenu.yy",},
-    {"name":"Sprite74","order":7,"path":"sprites/Sprite74/Sprite74.yy",},
-    {"name":"credits","order":5,"path":"sprites/credits/credits.yy",},
-    {"name":"start","order":3,"path":"sprites/start/start.yy",},
-    {"name":"MainMenu","order":2,"path":"rooms/MainMenu/MainMenu.yy",},
-    {"name":"r_credits","order":1,"path":"rooms/r_credits/r_credits.yy",},
-    {"name":"r_StartScreen","order":6,"path":"rooms/r_StartScreen/r_StartScreen.yy",},
-    {"name":"Sprite73","order":6,"path":"sprites/Sprite73/Sprite73.yy",},
-    {"name":"spr_PlayerSit","order":2,"path":"sprites/spr_PlayerSit/spr_PlayerSit.yy",},
-  ],
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [],
 }
