@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_EnemyFlipped","order":1,"path":"sprites/spr_EnemyFlipped/spr_EnemyFlipped.yy",},
+  ],
 }
