@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lamp",
+  "name": "Object65",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff.yy",
+    "name": "WB_Yara",
+    "path": "folders/Workbenches/WB_Yara.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_lamp",
-    "path": "sprites/spr_lamp/spr_lamp.yy",
+    "name": "Sprite64",
+    "path": "sprites/Sprite64/Sprite64.yy",
   },
   "spriteMaskId": null,
   "visible": true,

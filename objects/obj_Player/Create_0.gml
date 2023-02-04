@@ -1,3 +1,4 @@
+randomize()
 hSpeed = 0;
 vSpeed = 0;
 speedWalk_norm = 6.0;
