@@ -619,7 +619,6 @@
     {"name":"inst_68426CA2","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_5245D4E9","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_1EEC6365","path":"rooms/Level3/Level3.yy",},
-    {"name":"inst_7B2D54EA","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_514234C0","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_42CE806","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_77E8DF1C","path":"rooms/Level3/Level3.yy",},
@@ -634,6 +633,7 @@
     {"name":"inst_6B41CF1E","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_664B3467","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_7774F78","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_5EF2F1C8","path":"rooms/Level3/Level3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -648,8 +648,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F824F4B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_laus","path":"objects/obj_en_laus/obj_en_laus.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":11808.0,"y":800.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"gamecontroller","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7B2D54EA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_lausspawner","path":"objects/obj_lausspawner/obj_lausspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-64.0,"y":128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_514234C0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_snailspawner","path":"objects/obj_snailspawner/obj_snailspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5EF2F1C8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenspawner","path":"objects/obj_chickenspawner/obj_chickenspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":160.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"player","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5245D4E9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":832.0,"y":864.0,},
