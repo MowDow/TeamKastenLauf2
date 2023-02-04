@@ -28,5 +28,12 @@
     {"name":"obj_PlayerMOW","order":3,"path":"objects/obj_PlayerMOW/obj_PlayerMOW.yy",},
     {"name":"spr_GulliSlow","order":10,"path":"sprites/spr_GulliSlow/spr_GulliSlow.yy",},
     {"name":"spr_landroad","order":9,"path":"sprites/spr_landroad/spr_landroad.yy",},
+    {"name":"obj_fence","order":1,"path":"objects/obj_fence/obj_fence.yy",},
+    {"name":"spr_fenceend","order":2,"path":"sprites/spr_fenceend/spr_fenceend.yy",},
+    {"name":"spr_backgrounddark","order":1,"path":"sprites/spr_backgrounddark/spr_backgrounddark.yy",},
+    {"name":"spr_fence","order":1,"path":"sprites/spr_fence/spr_fence.yy",},
+    {"name":"obj_backgrounddark","order":1,"path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},
+    {"name":"obj_fenceend","order":2,"path":"objects/obj_fenceend/obj_fenceend.yy",},
   ],
+  "ResourceOrderSettings": [],
 }

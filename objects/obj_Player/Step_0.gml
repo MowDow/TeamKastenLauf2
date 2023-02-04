@@ -9,8 +9,11 @@ inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
 //Movement
+
+if sprite_index != spr_PlayerAtt{
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
+
 
 if ((hSpeed != 0 or vSpeed != 0))
 {
@@ -43,6 +46,8 @@ if (hSpeed = 0 and vSpeed = 0)
 	draw_self();
 	}
 }	
+}
+
 
 //Collision
 if (place_meeting(x+hSpeed, y, obj_collision)) //If my player is about to horizontally collide with a wall.
@@ -55,9 +60,24 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 	vSpeed = 0; //Stop moving horizontally.
 }
 
-if (keyAtt)
+
+//Attack
+if attacktime > 0 {attacktime--}
+
+if (keyAtt) and attacktime = 0
 {
 	{
+	attacktime = attacktime_max
+		
+		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
+			with instance_nearest(x,y,obj_par_Enemy){
+				path_start(path_springen,10,path_action_stop, false)}}
+				
+		if instance_nearest(x,y,obj_par_Enemy).x  > x{
+			with instance_nearest(x,y,obj_par_Enemy){
+				path_start(path_springenrev,10,path_action_stop, false)}}
+		
+		
 	if (audio_is_playing(aud_PlayerPunch))
 	audio_stop_sound(aud_PlayerPunch)
 		
@@ -67,7 +87,10 @@ if (keyAtt)
 	{
 		if (distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 100)
 		{
-			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	
+			instance_nearest(x,y,obj_par_Enemy).hp--
+	
+			if instance_nearest(x,y,obj_par_Enemy).hp = 0{
+			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	}
 		}
 	}
 	alarm[0] = 20;
@@ -78,25 +101,4 @@ if (keyAtt)
 if (mouse_check_button_pressed(mb_left))
 {
 	hearts--;	
-}
-
-if (instance_exists(obj_par_Enemy))
-{
-	with(obj_par_Enemy)
-	{
-		if (place_meeting(x,y,other))
-		{
-			obj_Player.hearts--;
-			x += 200;
-			obj_Player.x -= 200;
-		
-			//for(var InvincibleTimer = 120; InvincibleTimer = 0; InvincibleTimer --)
-			{
-				//obj_Player.hSpeed = 0;
-				//obj_Player.vSpeed = 0;
-				//other.hspeed = 0;
-				//other.vspeed = 0;
-			}
-		}
-	}
 }
