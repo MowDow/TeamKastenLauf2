@@ -214,6 +214,7 @@
     {"id":{"name":"obj_house5","path":"objects/obj_house5/obj_house5.yy",},"order":0,},
     {"id":{"name":"wiese_sad","path":"sprites/wiese_sad/wiese_sad.yy",},"order":0,},
     {"id":{"name":"Sprite64","path":"sprites/Sprite64/Sprite64.yy",},"order":0,},
+    {"id":{"name":"seq_Start","path":"sequences/seq_Start/seq_Start.yy",},"order":0,},
     {"id":{"name":"obj_countryhouse","path":"objects/obj_countryhouse/obj_countryhouse.yy",},"order":0,},
     {"id":{"name":"obj_carspawner","path":"objects/obj_carspawner/obj_carspawner.yy",},"order":0,},
     {"id":{"name":"spr_tree4","path":"sprites/spr_tree4/spr_tree4.yy",},"order":0,},
