@@ -6,6 +6,4 @@
     {"name":"credits","order":5,"path":"sprites/credits/credits.yy",},
     {"name":"start","order":3,"path":"sprites/start/start.yy",},
   ],
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
 }
