@@ -136,6 +136,7 @@
     {"id":{"name":"spr_PlayerRun","path":"sprites/spr_PlayerRun/spr_PlayerRun.yy",},"order":0,},
     {"id":{"name":"spr_grass2","path":"sprites/spr_grass2/spr_grass2.yy",},"order":0,},
     {"id":{"name":"obj_tree2","path":"objects/obj_tree2/obj_tree2.yy",},"order":0,},
+    {"id":{"name":"obj_enemyspawner","path":"objects/obj_enemyspawner/obj_enemyspawner.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
