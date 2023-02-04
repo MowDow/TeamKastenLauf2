@@ -8,6 +8,7 @@
     {"name":"spr_PlayerSitAnim","order":1,"path":"sprites/spr_PlayerSitAnim/spr_PlayerSitAnim.yy",},
     {"name":"oDebug","order":7,"path":"objects/oDebug/oDebug.yy",},
     {"name":"r_StartMenu","order":3,"path":"rooms/r_StartMenu/r_StartMenu.yy",},
+    {"name":"obj_button_MowMenu","order":1,"path":"objects/obj_button_MowMenu/obj_button_MowMenu.yy",},
     {"name":"Sprite74","order":7,"path":"sprites/Sprite74/Sprite74.yy",},
     {"name":"credits","order":5,"path":"sprites/credits/credits.yy",},
     {"name":"start","order":3,"path":"sprites/start/start.yy",},
