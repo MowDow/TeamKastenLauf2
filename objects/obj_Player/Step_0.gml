@@ -60,3 +60,8 @@ if (keyAtt)
 	alarm[0] = 20;
 	sprite_index = spr_PlayerAtt;
 }
+
+if (mouse_check_button_pressed(mb_left))
+{
+	hearts--;	
+}
