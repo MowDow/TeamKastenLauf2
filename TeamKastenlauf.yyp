@@ -106,6 +106,7 @@
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"order":0,},
     {"id":{"name":"f_MainMenu","path":"fonts/f_MainMenu/f_MainMenu.yy",},"order":0,},
     {"id":{"name":"spr_Enemy","path":"sprites/spr_Enemy/spr_Enemy.yy",},"order":0,},
+    {"id":{"name":"spr_EnemyFlipped","path":"sprites/spr_EnemyFlipped/spr_EnemyFlipped.yy",},"order":0,},
     {"id":{"name":"obj_house4","path":"objects/obj_house4/obj_house4.yy",},"order":0,},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},"order":0,},
     {"id":{"name":"spr_bush3","path":"sprites/spr_bush3/spr_bush3.yy",},"order":0,},

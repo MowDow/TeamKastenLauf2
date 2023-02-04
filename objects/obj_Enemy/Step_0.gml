@@ -3,16 +3,19 @@
 hspeed = 0
 vspeed = 0
 
+
 var distanceX = obj_PlayerMOW.x - x;
 var distanceY = obj_PlayerMOW.y - y;
 var movespeed = 2
 
 if obj_PlayerMOW.x < x {
 hspeed = hspeed - movespeed	
+image_xscale = 3
 }
 
 if obj_PlayerMOW.x > x {
-hspeed = hspeed + movespeed 	
+hspeed = hspeed + movespeed 
+image_xscale = -3
 }
 
 if distanceX < movespeed  and distanceX > -movespeed {
