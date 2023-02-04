@@ -2,6 +2,9 @@
   "FolderOrderSettings": [
     {"name":"Probs","order":9,"path":"folders/Objects/Menu/Probs.yy",},
     {"name":"Paths","order":8,"path":"folders/Objects/Menu/Paths.yy",},
+    {"name":"Sounds","order":1,"path":"folders/Workbenches/WB_Max/Sounds.yy",},
+    {"name":"Music","order":1,"path":"folders/Workbenches/WB_Max/Sounds/Music.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Workbenches/WB_Max/Sounds/Sounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"grafik","order":3,"path":"sprites/grafik/grafik.yy",},
