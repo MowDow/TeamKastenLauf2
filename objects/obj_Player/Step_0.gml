@@ -80,23 +80,5 @@ if (mouse_check_button_pressed(mb_left))
 	hearts--;	
 }
 
-if (instance_exists(obj_par_Enemy))
-{
-	with(obj_par_Enemy)
-	{
-		if (place_meeting(x,y,other))
-		{
-			obj_Player.hearts--;
-			x += 200;
-			obj_Player.x -= 200;
-		
-			//for(var InvincibleTimer = 120; InvincibleTimer = 0; InvincibleTimer --)
-			{
-				//obj_Player.hSpeed = 0;
-				//obj_Player.vSpeed = 0;
-				//other.hspeed = 0;
-				//other.vspeed = 0;
-			}
-		}
-	}
-}
+
+

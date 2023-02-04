@@ -36,6 +36,7 @@
     {"name":"obj_button_play","order":3,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"spr_bridge","order":4,"path":"sprites/spr_bridge/spr_bridge.yy",},
     {"name":"obj_button_quit","order":2,"path":"objects/obj_button_quit/obj_button_quit.yy",},
+    {"name":"path_springenrev","order":1,"path":"paths/path_springenrev/path_springenrev.yy",},
     {"name":"obj_button_controls","order":6,"path":"objects/obj_button_controls/obj_button_controls.yy",},
     {"name":"obj_button_parent","order":4,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"f_MainMenu","order":5,"path":"fonts/f_MainMenu/f_MainMenu.yy",},
