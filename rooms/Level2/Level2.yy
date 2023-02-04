@@ -40,7 +40,6 @@
     {"name":"inst_6E21D667","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_4F89493","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_F86114","path":"rooms/Level2/Level2.yy",},
-    {"name":"inst_5E9E5F6B","path":"rooms/Level2/Level2.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -75,7 +74,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3C19A66C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_villageway","path":"objects/obj_villageway/obj_villageway.yy",},"properties":[],"rotation":0.0,"scaleX":1.7,"scaleY":3.4840002,"x":7864.0,"y":-640.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_562C085B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_villageway","path":"objects/obj_villageway/obj_villageway.yy",},"properties":[],"rotation":0.0,"scaleX":1.7553155,"scaleY":3.4840002,"x":11794.0,"y":-640.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_F86114","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_uglyhouse","path":"objects/obj_uglyhouse/obj_uglyhouse.yy",},"properties":[],"rotation":0.0,"scaleX":1.256,"scaleY":1.256,"x":224.0,"y":32.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5E9E5F6B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"NextRoom","path":"objects/NextRoom/NextRoom.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":17.5,"x":13792.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"background1","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_9D30140","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_backgroundlevel2","path":"objects/obj_backgroundlevel2/obj_backgroundlevel2.yy",},"properties":[],"rotation":0.0,"scaleX":1.7909372,"scaleY":1.192,"x":0.0,"y":0.0,},
