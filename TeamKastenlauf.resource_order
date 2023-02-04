@@ -7,5 +7,11 @@
     {"name":"spr_laus","order":10,"path":"sprites/spr_laus/spr_laus.yy",},
     {"name":"spr_EnemyFlipped","order":1,"path":"sprites/spr_EnemyFlipped/spr_EnemyFlipped.yy",},
     {"name":"obj_Snail","order":7,"path":"objects/obj_Snail/obj_Snail.yy",},
+    {"name":"oHeart2","order":2,"path":"objects/oHeart2/oHeart2.yy",},
+    {"name":"spr_Heart","order":1,"path":"sprites/spr_Heart/spr_Heart.yy",},
+    {"name":"spr_HeartEmpty","order":2,"path":"sprites/spr_HeartEmpty/spr_HeartEmpty.yy",},
+    {"name":"oHeart3","order":3,"path":"objects/oHeart3/oHeart3.yy",},
+    {"name":"spr_EnemyFlipped","order":1,"path":"sprites/spr_EnemyFlipped/spr_EnemyFlipped.yy",},
+    {"name":"oHeart1","order":1,"path":"objects/oHeart1/oHeart1.yy",},
   ],
 }

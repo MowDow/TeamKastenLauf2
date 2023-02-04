@@ -1,0 +1,4 @@
+if (obj_Player.hearts < 2)
+{
+	sprite_index = spr_HeartEmpty;	
+}
