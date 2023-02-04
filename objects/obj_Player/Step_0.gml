@@ -57,11 +57,40 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 if (keyAtt)
 {
+	if(instance_exists(obj_par_Enemy))
+	{
+		if (distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 100)
+		{
+			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	
+		}
+	}
 	alarm[0] = 20;
 	sprite_index = spr_PlayerAtt;
+	draw_self();
 }
 
 if (mouse_check_button_pressed(mb_left))
 {
 	hearts--;	
+}
+
+if (instance_exists(obj_par_Enemy))
+{
+	with(obj_par_Enemy)
+	{
+		if (place_meeting(x,y,other))
+		{
+			obj_Player.hearts--;
+			x += 200;
+			obj_Player.x -= 200;
+		
+			//for(var InvincibleTimer = 120; InvincibleTimer = 0; InvincibleTimer --)
+			{
+				//obj_Player.hSpeed = 0;
+				//obj_Player.vSpeed = 0;
+				//other.hspeed = 0;
+				//other.vspeed = 0;
+			}
+		}
+	}
 }
