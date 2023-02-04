@@ -8,4 +8,5 @@
     {"name":"obj_backgrounddark","order":1,"path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},
     {"name":"obj_fenceend","order":2,"path":"objects/obj_fenceend/obj_fenceend.yy",},
   ],
+  "ResourceOrderSettings": [],
 }

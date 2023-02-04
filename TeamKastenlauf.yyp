@@ -79,6 +79,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"path_springen","path":"paths/path_springen/path_springen.yy",},"order":0,},
     {"id":{"name":"obj_lamp","path":"objects/obj_lamp/obj_lamp.yy",},"order":0,},
     {"id":{"name":"Raum_Mow","path":"rooms/Raum_Mow/Raum_Mow.yy",},"order":0,},
     {"id":{"name":"spr_bush2","path":"sprites/spr_bush2/spr_bush2.yy",},"order":0,},
@@ -162,6 +163,7 @@
     {"id":{"name":"obj_sky","path":"objects/obj_sky/obj_sky.yy",},"order":0,},
     {"id":{"name":"spr_bridge","path":"sprites/spr_bridge/spr_bridge.yy",},"order":0,},
     {"id":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},"order":0,},
+    {"id":{"name":"path_springenrev","path":"paths/path_springenrev/path_springenrev.yy",},"order":0,},
     {"id":{"name":"obj_button_controls","path":"objects/obj_button_controls/obj_button_controls.yy",},"order":0,},
     {"id":{"name":"obj_backgrounddark","path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},"order":0,},
     {"id":{"name":"obj_tree3","path":"objects/obj_tree3/obj_tree3.yy",},"order":0,},
