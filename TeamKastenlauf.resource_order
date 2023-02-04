@@ -1,4 +1,12 @@
 {
+  "FolderOrderSettings": [
+    {"name":"BG","order":1,"path":"folders/Workbenches/WB_Mow/BG.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sad_plant","order":1,"path":"sprites/sad_plant/sad_plant.yy",},
+    {"name":"r_StartMenu","order":1,"path":"rooms/r_StartMenu/r_StartMenu.yy",},
+    {"name":"wiese_happy","order":2,"path":"sprites/wiese_happy/wiese_happy.yy",},
+    {"name":"wiese_sad","order":3,"path":"sprites/wiese_sad/wiese_sad.yy",},
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"draw_shadow","order":1,"path":"scripts/draw_shadow/draw_shadow.yy",},
