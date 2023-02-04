@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2280B6DF
-/// @DnDArgument : "expr" "600"
+/// @DnDArgument : "expr" "400"
 /// @DnDArgument : "var" "spawn_rate"
-spawn_rate = 600;
+spawn_rate = 400;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
@@ -14,9 +14,9 @@ alarm_set(0, spawn_rate);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3FFDAD25
-/// @DnDArgument : "expr" "600"
+/// @DnDArgument : "expr" "400"
 /// @DnDArgument : "var" "spawn_rate2"
-spawn_rate2 = 600;
+spawn_rate2 = 400;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
