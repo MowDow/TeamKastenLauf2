@@ -77,6 +77,8 @@ if (keyAtt) and attacktime = 0
 	{
 	attacktime = attacktime_max
 		
+	if distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 30
+	{
 		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
 			with instance_nearest(x,y,obj_par_Enemy){
 				path_start(path_springen,10,path_action_stop, false)}}
@@ -84,6 +86,8 @@ if (keyAtt) and attacktime = 0
 		if instance_nearest(x,y,obj_par_Enemy).x  > x{
 			with instance_nearest(x,y,obj_par_Enemy){
 				path_start(path_springenrev,10,path_action_stop, false)}}
+	}
+				
 		
 		
 	if (audio_is_playing(aud_PlayerPunch))

@@ -1,43 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "FolderOrderSettings": [
-    {"name":"Sprites","order":15,"path":"folders/Workbenches/WB_Mow/Sprites.yy",},
-  ],
-  "ResourceOrderSettings": [
-    {"name":"Raum_Mow","order":14,"path":"rooms/Raum_Mow/Raum_Mow.yy",},
-    {"name":"grafik","order":13,"path":"sprites/grafik/grafik.yy",},
-    {"name":"baum","order":7,"path":"sprites/baum/baum.yy",},
-    {"name":"kuh","order":6,"path":"sprites/kuh/kuh.yy",},
-    {"name":"zaun","order":5,"path":"sprites/zaun/zaun.yy",},
-    {"name":"Timeline1","order":12,"path":"timelines/Timeline1/Timeline1.yy",},
-    {"name":"baum2","order":4,"path":"sprites/baum2/baum2.yy",},
-    {"name":"obj_Enemyfaster","order":11,"path":"objects/obj_Enemyfaster/obj_Enemyfaster.yy",},
-    {"name":"obj_landroad","order":10,"path":"objects/obj_landroad/obj_landroad.yy",},
-    {"name":"obj_GulliSlow","order":9,"path":"objects/obj_GulliSlow/obj_GulliSlow.yy",},
-    {"name":"spr_PlayerGetHit","order":1,"path":"sprites/spr_PlayerGetHit/spr_PlayerGetHit.yy",},
-    {"name":"spr_skyDorf","order":8,"path":"sprites/spr_skyDorf/spr_skyDorf.yy",},
-    {"name":"baum3","order":3,"path":"sprites/baum3/baum3.yy",},
-    {"name":"obj_Enemyfaster25","order":7,"path":"objects/obj_Enemyfaster25/obj_Enemyfaster25.yy",},
-    {"name":"heu","order":2,"path":"sprites/heu/heu.yy",},
-    {"name":"obj_skyDorf","order":16,"path":"objects/obj_skyDorf/obj_skyDorf.yy",},
-    {"name":"sky_orange","order":11,"path":"sprites/sky_orange/sky_orange.yy",},
-    {"name":"spr_Enemy","order":6,"path":"sprites/spr_Enemy/spr_Enemy.yy",},
-    {"name":"spr_EnemyFlipped","order":5,"path":"sprites/spr_EnemyFlipped/spr_EnemyFlipped.yy",},
-    {"name":"zaunende","order":1,"path":"sprites/zaunende/zaunende.yy",},
-    {"name":"r_Dorf","order":8,"path":"rooms/r_Dorf/r_Dorf.yy",},
-    {"name":"seq_End","order":4,"path":"sequences/seq_End/seq_End.yy",},
-    {"name":"obj_PlayerMOW","order":3,"path":"objects/obj_PlayerMOW/obj_PlayerMOW.yy",},
-    {"name":"spr_GulliSlow","order":10,"path":"sprites/spr_GulliSlow/spr_GulliSlow.yy",},
-    {"name":"spr_landroad","order":9,"path":"sprites/spr_landroad/spr_landroad.yy",},
-    {"name":"obj_fence","order":1,"path":"objects/obj_fence/obj_fence.yy",},
-    {"name":"spr_fenceend","order":2,"path":"sprites/spr_fenceend/spr_fenceend.yy",},
-    {"name":"spr_backgrounddark","order":1,"path":"sprites/spr_backgrounddark/spr_backgrounddark.yy",},
-    {"name":"spr_fence","order":1,"path":"sprites/spr_fence/spr_fence.yy",},
-    {"name":"obj_backgrounddark","order":1,"path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},
-    {"name":"obj_fenceend","order":2,"path":"objects/obj_fenceend/obj_fenceend.yy",},
-  ],
-=======
   "FolderOrderSettings": [],
->>>>>>> Stashed changes
   "ResourceOrderSettings": [],
 }

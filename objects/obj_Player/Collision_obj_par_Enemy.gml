@@ -1,8 +1,8 @@
-
 //Hit enemy
 if (place_meeting(x,y,other)) and invincible = false
 	{
 			obj_Player.hearts--;
+			sprite_index = spr_PlayerGetHit
 			
 			//enemy left, player right
 			if other.x  <= x{
