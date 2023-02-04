@@ -1,16 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_Enemy",
+  "name": "obj_Snail",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "WB_Mow",
-    "path": "folders/Workbenches/WB_Mow.yy",
+    "name": "Snail",
+    "path": "folders/Sprites/Enemies/Snail.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Enemy",
-    "path": "sprites/spr_Enemy/spr_Enemy.yy",
+    "name": "spr_snaill",
+    "path": "sprites/spr_snaill/spr_snaill.yy",
   },
   "spriteMaskId": null,
   "visible": true,

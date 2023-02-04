@@ -1,6 +1,11 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Snail","order":1,"path":"folders/Sprites/Enemies/Snail.yy",},
+  ],
   "ResourceOrderSettings": [
+    {"name":"spr_snaill","order":9,"path":"sprites/spr_snaill/spr_snaill.yy",},
+    {"name":"spr_laus","order":10,"path":"sprites/spr_laus/spr_laus.yy",},
     {"name":"spr_EnemyFlipped","order":1,"path":"sprites/spr_EnemyFlipped/spr_EnemyFlipped.yy",},
+    {"name":"obj_Snail","order":7,"path":"objects/obj_Snail/obj_Snail.yy",},
   ],
 }
