@@ -2,6 +2,13 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"spr_villageway2","order":1,"path":"sprites/spr_villageway2/spr_villageway2.yy",},
+    {"name":"spr_hundehuette3","order":1,"path":"sprites/spr_hundehuette3/spr_hundehuette3.yy",},
+    {"name":"obj_hundehuette2","order":2,"path":"objects/obj_hundehuette2/obj_hundehuette2.yy",},
+    {"name":"obj_hundehuette","order":1,"path":"objects/obj_hundehuette/obj_hundehuette.yy",},
+    {"name":"obj_hundehuette3","order":3,"path":"objects/obj_hundehuette3/obj_hundehuette3.yy",},
+    {"name":"spr_hundehuette","order":3,"path":"sprites/spr_hundehuette/spr_hundehuette.yy",},
+    {"name":"obj_villageway2","order":1,"path":"objects/obj_villageway2/obj_villageway2.yy",},
+    {"name":"spr_hundehuette2","order":2,"path":"sprites/spr_hundehuette2/spr_hundehuette2.yy",},
     {"name":"obj_audio_controller_menu","order":1,"path":"objects/obj_audio_controller_menu/obj_audio_controller_menu.yy",},
     {"name":"obj_villageway2","order":1,"path":"objects/obj_villageway2/obj_villageway2.yy",},
     {"name":"aud_MenuBGM","order":1,"path":"sounds/aud_MenuBGM/aud_MenuBGM.yy",},
