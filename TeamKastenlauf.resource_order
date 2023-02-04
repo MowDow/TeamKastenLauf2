@@ -15,4 +15,6 @@
     {"name":"r_StartScreen","order":6,"path":"rooms/r_StartScreen/r_StartScreen.yy",},
     {"name":"Sprite73","order":6,"path":"sprites/Sprite73/Sprite73.yy",},
   ],
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [],
 }
