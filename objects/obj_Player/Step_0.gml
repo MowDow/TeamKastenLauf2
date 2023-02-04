@@ -18,7 +18,7 @@ inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
 //Movement
 
-if sprite_index != spr_PlayerAtt{
+if sprite_index != spr_PlayerAtt and hearts > 0{
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
 
@@ -121,7 +121,6 @@ if hearts <= 0
 		hspeed = 0
 		vspeed = 0
 		
-		if image_index = sprite_get_number
+		if image_index = 7
 		{room_goto(MainMenu)}
-		//HIER GAME OVER SCREEN
 	}
