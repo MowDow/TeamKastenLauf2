@@ -116,7 +116,7 @@ if (keyAtt) and attacktime = 0
 //death
 if hearts <= 0
 	{
-		sprite_index = spr_playerdeath
+		sprite_index = spr_playerdeathanim
 		
 		hspeed = 0
 		vspeed = 0
