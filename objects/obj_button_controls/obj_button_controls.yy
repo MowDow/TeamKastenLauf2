@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_button",
-    "path": "sprites/s_button/s_button.yy",
+    "name": "start",
+    "path": "sprites/start/start.yy",
   },
   "spriteMaskId": null,
   "visible": true,
