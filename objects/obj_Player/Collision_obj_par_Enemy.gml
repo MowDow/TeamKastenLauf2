@@ -1,4 +1,3 @@
-
 //Hit enemy
 if (place_meeting(x,y,other)) and invincible = false
 	{
