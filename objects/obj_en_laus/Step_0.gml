@@ -11,12 +11,12 @@ var movespeed = 3
 if instance_exists(obj_Player) {
 if obj_Player.x < x {
 hspeed = hspeed - movespeed	
-image_xscale = -0.3
+image_xscale = -0.25
 }
 
 if obj_Player.x > x {
 hspeed = hspeed + movespeed 
-image_xscale = 0.3
+image_xscale = 0.25
 }
 
 
