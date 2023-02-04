@@ -12,14 +12,14 @@ keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
 keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
 keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));
 keyAtt = keyboard_check_pressed(ord("K"));
-keyHeal = keyboard_check_pressed(ord("L"));
+keyHeal = keyboard_check(ord("L"));
 
 inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
 //Movement
 
-if sprite_index != spr_PlayerAtt and hearts > 0{
+if sprite_index != spr_PlayerAtt and hearts > 0 and !(keyHeal){
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
 
@@ -66,6 +66,18 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 {
 	vSpeed = 0; //Stop moving horizontally.
 }
+
+
+
+
+
+//Heal
+if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim{
+sprite_index = spr_PlayerSitAnim}
+
+if sprite_index = spr_PlayerSitAnim and image_index = 4
+{sprite_index = spr_PlayerSit}
+
 
 
 //Attack
