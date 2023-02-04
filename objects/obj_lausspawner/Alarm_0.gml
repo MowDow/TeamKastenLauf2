@@ -10,11 +10,11 @@ x = (random_range(100, 1800));
 /// @DnDVersion : 1
 /// @DnDHash : 504C1762
 /// @DnDArgument : "xpos" "x"
-/// @DnDArgument : "ypos" "200"
+/// @DnDArgument : "ypos" "450"
 /// @DnDArgument : "objectid" "obj_en_laus"
 /// @DnDArgument : "layer" ""enemy""
 /// @DnDSaveInfo : "objectid" "obj_en_laus"
-instance_create_layer(x, 200, "enemy", obj_en_laus);
+instance_create_layer(x, 450, "enemy", obj_en_laus);
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
