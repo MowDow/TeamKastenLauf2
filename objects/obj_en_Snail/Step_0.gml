@@ -6,7 +6,7 @@ vspeed = 0
 
 var distanceX = obj_Player.x - x;
 var distanceY = obj_Player.y - y;
-var movespeed = 2
+var movespeed = 1
 
 if instance_exists(obj_Player) {
 	

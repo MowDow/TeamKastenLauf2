@@ -1,4 +1,12 @@
 //Get Player Input
+
+//Rennen
+//if mouse_check_button_pressed(mb_left)
+//	{speedWalk = speedWalk_norm*2}
+//if mouse_check_button_released(mb_left)
+//	{speedWalk = speedWalk_norm}
+
+
 keyLeft = keyboard_check(vk_left) || keyboard_check(ord("A"));
 keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
 keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
@@ -69,6 +77,19 @@ if (keyAtt) and attacktime = 0
 	{
 	attacktime = attacktime_max
 		
+	if distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 30
+	{
+		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
+			with instance_nearest(x,y,obj_par_Enemy){
+				path_start(path_springen,10,path_action_stop, false)}}
+				
+		if instance_nearest(x,y,obj_par_Enemy).x  > x{
+			with instance_nearest(x,y,obj_par_Enemy){
+				path_start(path_springenrev,10,path_action_stop, false)}}
+	}
+				
+		
+		
 	if (audio_is_playing(aud_PlayerPunch))
 	audio_stop_sound(aud_PlayerPunch)
 		
@@ -78,7 +99,10 @@ if (keyAtt) and attacktime = 0
 	{
 		if (distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 100)
 		{
-			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	
+			instance_nearest(x,y,obj_par_Enemy).hp--
+	
+			if instance_nearest(x,y,obj_par_Enemy).hp = 0{
+			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	}
 		}
 	}
 	alarm[0] = 20;
@@ -86,7 +110,7 @@ if (keyAtt) and attacktime = 0
 	draw_self();
 }
 
-if (mouse_check_button_pressed(mb_left))
-{
-	hearts--;	
-}
+//if (mouse_check_button_pressed(mb_left))
+//{
+//	hearts--;	
+//}

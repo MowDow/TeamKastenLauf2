@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "WB_Mow",
-    "path": "folders/Workbenches/WB_Mow.yy",
+    "name": "Sprites",
+    "path": "folders/Workbenches/WB_Mow/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
