@@ -33,6 +33,7 @@
     {"name":"obj_githubdisaster","order":1,"path":"objects/obj_githubdisaster/obj_githubdisaster.yy",},
     {"name":"spr_start4","order":4,"path":"sprites/spr_start4/spr_start4.yy",},
     {"name":"obj_startC2","order":10,"path":"objects/obj_startC2/obj_startC2.yy",},
+    {"name":"obj_chickenspawner","order":2,"path":"objects/obj_chickenspawner/obj_chickenspawner.yy",},
     {"name":"spr_forestnoreturn","order":2,"path":"sprites/spr_forestnoreturn/spr_forestnoreturn.yy",},
     {"name":"obj_startC4","order":12,"path":"objects/obj_startC4/obj_startC4.yy",},
     {"name":"spr_start2","order":2,"path":"sprites/spr_start2/spr_start2.yy",},
