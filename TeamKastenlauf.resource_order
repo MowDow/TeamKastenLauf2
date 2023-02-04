@@ -2,6 +2,9 @@
   "FolderOrderSettings": [
     {"name":"Probs","order":9,"path":"folders/Objects/Menu/Probs.yy",},
     {"name":"Paths","order":8,"path":"folders/Objects/Menu/Paths.yy",},
+    {"name":"Sounds","order":1,"path":"folders/Workbenches/WB_Max/Sounds.yy",},
+    {"name":"Music","order":1,"path":"folders/Workbenches/WB_Max/Sounds/Music.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Workbenches/WB_Max/Sounds/Sounds.yy",},
     {"name":"Enemy Spawner","order":2,"path":"folders/Workbenches/WB_Andrew/Objects/Enemy Spawner.yy",},
     {"name":"cars","order":1,"path":"folders/Workbenches/WB_Andrew/Objects/citystuff/cars.yy",},
     {"name":"cars","order":1,"path":"folders/Workbenches/WB_Andrew/Sprites/citystuff/cars.yy",},

@@ -57,6 +57,10 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 if (keyAtt)
 {
+	if (!audio_is_playing(aud_PlayerPunch))
+	{
+	audio_play_sound(aud_PlayerPunch,1,false,1,undefined,random_range(0.9,1.1));
+	}
 	if(instance_exists(obj_par_Enemy))
 	{
 		if (distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 100)
