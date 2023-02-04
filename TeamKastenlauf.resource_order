@@ -8,6 +8,7 @@
     {"name":"Enemy Spawner","order":2,"path":"folders/Workbenches/WB_Andrew/Objects/Enemy Spawner.yy",},
     {"name":"cars","order":1,"path":"folders/Workbenches/WB_Andrew/Objects/citystuff/cars.yy",},
     {"name":"cars","order":1,"path":"folders/Workbenches/WB_Andrew/Sprites/citystuff/cars.yy",},
+    {"name":"Sequence","order":1,"path":"folders/Workbenches/WB_Andrew/Sequence.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"grafik","order":3,"path":"sprites/grafik/grafik.yy",},
@@ -36,7 +37,7 @@
     {"name":"f_MainMenu","order":5,"path":"fonts/f_MainMenu/f_MainMenu.yy",},
     {"name":"r_credits","order":1,"path":"rooms/r_credits/r_credits.yy",},
     {"name":"obj_car3","order":2,"path":"objects/obj_car3/obj_car3.yy",},
-    {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_hud","order":3,"path":"objects/obj_hud/obj_hud.yy",},
     {"name":"obj_carspawner","order":2,"path":"objects/obj_carspawner/obj_carspawner.yy",},
     {"name":"obj_en_Snail","order":1,"path":"objects/obj_en_Snail/obj_en_Snail.yy",},
     {"name":"seq_End","order":2,"path":"sequences/seq_End/seq_End.yy",},
