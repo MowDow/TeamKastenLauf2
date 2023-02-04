@@ -1,17 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemyspawner",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,},
-  ],
+  "name": "obj_bridge",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Workbenches/WB_Andrew/Objects.yy",
+    "name": "citystuff",
+    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_bridge",
+    "path": "sprites/spr_bridge/spr_bridge.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
