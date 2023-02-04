@@ -77,6 +77,7 @@
     {"id":{"name":"obj_house2","path":"objects/obj_house2/obj_house2.yy",},"order":0,},
     {"id":{"name":"spr_gullydeckel","path":"sprites/spr_gullydeckel/spr_gullydeckel.yy",},"order":0,},
     {"id":{"name":"obj_en_laus","path":"objects/obj_en_laus/obj_en_laus.yy",},"order":0,},
+    {"id":{"name":"obj_par_Enemy","path":"objects/obj_par_Enemy/obj_par_Enemy.yy",},"order":0,},
     {"id":{"name":"spr_house3","path":"sprites/spr_house3/spr_house3.yy",},"order":0,},
     {"id":{"name":"spr_PlayerAtt","path":"sprites/spr_PlayerAtt/spr_PlayerAtt.yy",},"order":0,},
     {"id":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"order":0,},
