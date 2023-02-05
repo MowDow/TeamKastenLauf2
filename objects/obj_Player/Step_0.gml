@@ -121,7 +121,7 @@ if (keyAtt) and attacktime = 0
 	{
 	attacktime = attacktime_max
 		
-	if distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 30
+	if distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 50
 	{
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_Snail{
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_snailhit}
