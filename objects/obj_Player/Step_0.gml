@@ -11,15 +11,15 @@ keyLeft = keyboard_check(vk_left) || keyboard_check(ord("A"));
 keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
 keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
 keyDown = keyboard_check(vk_down) || keyboard_check(ord("S"));
-keyAtt = keyboard_check(vk_space);
-keyHeal = undefined //keyboard_check(ord("L"));
+keyAtt = keyboard_check(vk_space) || keyboard_check(ord("K"));
+keyHeal = keyboard_check(ord("L"));
 
 inputDirection = point_direction(0,0,keyRight-keyLeft,keyDown-keyUp);
 inputMagnitude = (keyRight - keyLeft != 0) || (keyDown - keyUp != 0);
 
 //Movement
 
-if sprite_index != spr_PlayerAtt and hearts > 0 //and !(keyHeal) 
+if sprite_index != spr_PlayerAtt and hearts > 0 and !(keyHeal) and path_index = -1
 {
 hSpeed = lengthdir_x(inputMagnitude * speedWalk, inputDirection);
 vSpeed = lengthdir_y(inputMagnitude * speedWalk, inputDirection);
@@ -70,6 +70,9 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 
 
+//get hit
+if path_index != -1
+sprite_index = spr_PlayerGetHit
 
 
 //Heal
@@ -78,6 +81,18 @@ sprite_index = spr_PlayerSitAnim}
 
 if sprite_index = spr_PlayerSitAnim and image_index = 4
 {sprite_index = spr_PlayerSit}
+
+if sprite_index = spr_PlayerSitAnim
+{
+	healtime--
+	if healtime = 0
+		{healtime = healtime_max
+			
+		if hearts != 3
+		hearts += 1
+			}
+		
+}
 
 
 
@@ -91,6 +106,11 @@ if (keyAtt) and attacktime = 0
 		
 	if distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 30
 	{
+		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_Snail{
+		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_snailhit}
+		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_laus{
+		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_laushit}
+		
 		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
 			with instance_nearest(x,y,obj_par_Enemy){
 				path_start(path_springen,10,path_action_stop, false)}}
@@ -112,9 +132,6 @@ if (keyAtt) and attacktime = 0
 		if (distance_to_object(instance_nearest(x,y,obj_par_Enemy)) < 100)
 		{
 			instance_nearest(x,y,obj_par_Enemy).hp--
-	
-			if instance_nearest(x,y,obj_par_Enemy).hp = 0{
-			instance_destroy(instance_nearest(x,y,obj_par_Enemy));	}
 		}
 	}
 	alarm[0] = 20;

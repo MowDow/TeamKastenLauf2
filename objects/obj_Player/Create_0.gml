@@ -8,3 +8,6 @@ InvincibleTimer = 120;
 invincible = false
 attacktime = 0
 attacktime_max = 20
+
+healtime_max = 100
+healtime = healtime_max
