@@ -88,10 +88,11 @@ sprite_index = spr_PlayerSitAnim}
 if sprite_index = spr_PlayerSitAnim and image_index = 4
 {sprite_index = spr_PlayerSit}
 
-if sprite_index = spr_PlayerSitAnim
+if sprite_index = spr_PlayerSit
 {
 	healtime--
-	if healtime = 0
+	
+	if healtime <= 0
 		{healtime = healtime_max
 			
 		if hearts != 3
@@ -116,6 +117,8 @@ if (keyAtt) and attacktime = 0
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_snailhit}
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_laus{
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_laushit}
+		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_chickenwalk{
+		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_chickenhit}
 		
 		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
 			with instance_nearest(x,y,obj_par_Enemy){
