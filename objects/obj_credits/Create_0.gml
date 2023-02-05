@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-text="Schlaendrew, der auf dem Kasten pennt\n\n\nMainCoder DJPamda\n\n\nYaraKoro >> 7-Schlaefer\n\n\nAlena = Assets am Fliessband\n\n\nAstrid Story Queen\n\n\nMow, viel zu viel Zeit mit den Credits"
+canskip = false
+alarm [0] = 2100
+text="Andrew, Coding, Art, Kastenrenner, liebt GameMaker\n\n\nDJ Pamda, Code, Music, SFX\n\n\nYaraKoro, Coding, Art\n\n\nAlena, Platii, Art (Assets am Fliessband)\n\n\nAstrid, wer sonst?! Story Queen, SFX, Voiceacting\n\n\nMow, versucht Coding, Kastensprinter, Menus\n\n\n\n\n\nPress any Key to continue"
 x=room_width/2;
 y=room_height+50
 height=string_height(text); 
