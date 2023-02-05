@@ -250,7 +250,6 @@
     {"name":"inst_6F92013E","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_9E044CE","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_A806188","path":"rooms/Level2/Level2.yy",},
-    {"name":"inst_7007864D","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_4A3E33EE","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_70EFB950","path":"rooms/Level2/Level2.yy",},
     {"name":"inst_22307755","path":"rooms/Level2/Level2.yy",},
