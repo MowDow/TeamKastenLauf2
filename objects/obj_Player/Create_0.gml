@@ -11,3 +11,10 @@ attacktime_max = 40
 
 healtime_max = 40
 healtime = healtime_max
+
+if room = Level2
+global.level = 2
+if room = Level3
+global.level = 3
+if room = TestRaumAndrew
+global.level = 1

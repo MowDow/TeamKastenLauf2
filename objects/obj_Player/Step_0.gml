@@ -6,7 +6,6 @@
 //if mouse_check_button_released(mb_left)
 //	{speedWalk = speedWalk_norm}
 
-
 keyLeft = keyboard_check(vk_left) || keyboard_check(ord("A"));
 keyRight = keyboard_check(vk_right) || keyboard_check(ord("D"));
 keyUp = keyboard_check(vk_up) || keyboard_check(ord("W"));
@@ -102,6 +101,11 @@ if sprite_index = spr_PlayerSit
 	if healtime <= 0
 		{healtime = healtime_max
 			
+		if hearts != 3
+		hearts += 1
+			}
+			
+		if place_meeting(x,y,obj_Pfutze){ //instant heal auf pfütze
 		if hearts != 3
 		hearts += 1
 			}
