@@ -33,7 +33,7 @@
   "origin": 7,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Workbenches/WB_Andrew/Sprites.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

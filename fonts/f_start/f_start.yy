@@ -208,7 +208,7 @@
   "maintainGms1Font": false,
   "parent": {
     "name": "BG",
-    "path": "folders/Workbenches/WB_Mow/BG.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/BG.yy",
   },
   "pointRounding": 0,
   "ranges": [

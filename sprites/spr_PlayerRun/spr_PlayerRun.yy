@@ -29,7 +29,7 @@
   "origin": 7,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Workbenches/WB_Max/Sprites.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Max/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

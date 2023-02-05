@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "cars",
-    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff/cars.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Objects/citystuff/cars.yy",
   },
   "parentObjectId": {
     "name": "obj_car_parent",

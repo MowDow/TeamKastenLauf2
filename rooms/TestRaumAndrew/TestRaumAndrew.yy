@@ -3609,7 +3609,7 @@
   ],
   "parent": {
     "name": "WB_Andrew",
-    "path": "folders/Workbenches/WB_Andrew.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

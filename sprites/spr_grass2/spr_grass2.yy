@@ -31,7 +31,7 @@
   "origin": 0,
   "parent": {
     "name": "plants",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/citystuff/plants.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites/citystuff/plants.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

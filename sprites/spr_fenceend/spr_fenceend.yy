@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "countrystuff",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/countrystuff.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites/countrystuff.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

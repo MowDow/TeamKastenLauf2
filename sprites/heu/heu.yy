@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Workbenches/WB_Mow/Sprites.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

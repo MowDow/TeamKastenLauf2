@@ -13,7 +13,7 @@
   "duration": 0.587506,
   "parent": {
     "name": "Sounds",
-    "path": "folders/Workbenches/WB_Max/Sounds/Sounds.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Max/Sounds/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,

@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "WB_Yara",
-    "path": "folders/Workbenches/WB_Yara.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Yara.yy",
   },
   "parentObjectId": null,
   "persistent": false,

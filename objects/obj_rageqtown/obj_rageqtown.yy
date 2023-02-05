@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Objects/citystuff.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Objects/citystuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,

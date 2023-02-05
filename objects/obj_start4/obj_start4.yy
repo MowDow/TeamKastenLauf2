@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "StartScene",
-    "path": "folders/Workbenches/WB_Mow/StartScene.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/StartScene.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_start4",
-    "path": "sprites/spr_start4/spr_start4.yy",
+    "name": "spr_start3fix",
+    "path": "sprites/spr_start3fix/spr_start3fix.yy",
   },
   "spriteMaskId": null,
   "visible": true,

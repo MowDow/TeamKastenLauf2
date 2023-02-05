@@ -29,7 +29,7 @@
   "origin": 0,
   "parent": {
     "name": "citystuff",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/citystuff.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites/citystuff.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

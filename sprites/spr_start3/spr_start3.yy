@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "StartScene",
-    "path": "folders/Workbenches/WB_Mow/StartScene.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/StartScene.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

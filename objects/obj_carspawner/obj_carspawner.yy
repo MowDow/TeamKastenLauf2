@@ -7,7 +7,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Enemy Spawner",
-    "path": "folders/Workbenches/WB_Andrew/Objects/Enemy Spawner.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Objects/Enemy Spawner.yy",
   },
   "parentObjectId": null,
   "persistent": false,

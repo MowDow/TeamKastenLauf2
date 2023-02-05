@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "house",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/house.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites/house.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

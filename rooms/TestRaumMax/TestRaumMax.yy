@@ -151,7 +151,7 @@
   ],
   "parent": {
     "name": "WB_Max",
-    "path": "folders/Workbenches/WB_Max.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Max.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

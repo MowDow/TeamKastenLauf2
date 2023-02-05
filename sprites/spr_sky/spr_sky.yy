@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "background",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/background.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites/background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

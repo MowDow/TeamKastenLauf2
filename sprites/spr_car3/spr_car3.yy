@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "cars",
-    "path": "folders/Workbenches/WB_Andrew/Sprites/citystuff/cars.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Sprites/citystuff/cars.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -9,7 +9,7 @@
   ],
   "parent": {
     "name": "BG",
-    "path": "folders/Workbenches/WB_Mow/BG.yy",
+    "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/BG.yy",
   },
   "parentObjectId": {
     "name": "obj_text_parent",
