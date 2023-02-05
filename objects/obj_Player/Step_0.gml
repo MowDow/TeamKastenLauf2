@@ -109,7 +109,6 @@ if sprite_index = spr_PlayerSit
 		if hearts != 3
 		hearts += 1
 			}
-		
 }
 
 
