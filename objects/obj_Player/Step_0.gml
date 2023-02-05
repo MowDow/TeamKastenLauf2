@@ -82,6 +82,10 @@ sprite_index = spr_PlayerGetHit
 
 
 //Heal
+if room = Level2 {healtime_max = 80}
+if room = Level3 {healtime_max = 120}
+
+
 if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim{
 sprite_index = spr_PlayerSitAnim}
 
