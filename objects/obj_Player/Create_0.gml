@@ -7,7 +7,7 @@ hearts = 3;
 InvincibleTimer = 120;
 invincible = false
 attacktime = 0
-attacktime_max = 40
+attacktime_max = 30
 
 healtime_max = 40
 healtime = healtime_max
