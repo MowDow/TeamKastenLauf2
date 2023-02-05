@@ -5,6 +5,17 @@
 hspeed = 0
 vspeed = 0
 
+if path_index = -1 and hp > 0
+sprite_index = spr_chickenwalk
+
+
+//death anim
+if hp <= 0 and path_index = -1 and sprite_index != spr_chickentot
+	{sprite_index = spr_chickentot image_index = 0}
+if sprite_index = spr_chickentot and image_index = 3
+	{instance_destroy()}
+
+
 
 var distanceX = obj_Player.x - x;
 var distanceY = obj_Player.y - y;

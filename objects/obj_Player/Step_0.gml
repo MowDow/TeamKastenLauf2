@@ -39,7 +39,12 @@ if ((hSpeed != 0 or vSpeed != 0))
 	x += hSpeed;
 	y += vSpeed;
 	if (!alarm[0]){
-	sprite_index = spr_PlayerRun;
+		sprite_index = spr_PlayerRun;
+	
+		if(!audio_is_playing(aud_PlayerSteps))
+		{
+			audio_play_sound(aud_PlayerSteps,1,true,1.5,0.2,random_range(0.9,1.1));
+		}
 	}
 }
 	
@@ -52,6 +57,7 @@ if (hSpeed = 0 and vSpeed = 0)
 {
 	if (!alarm[0]){
 	sprite_index = spr_Player;
+	audio_stop_sound(aud_PlayerSteps);
 	}
 }	
 }
@@ -82,10 +88,11 @@ sprite_index = spr_PlayerSitAnim}
 if sprite_index = spr_PlayerSitAnim and image_index = 4
 {sprite_index = spr_PlayerSit}
 
-if sprite_index = spr_PlayerSitAnim
+if sprite_index = spr_PlayerSit
 {
 	healtime--
-	if healtime = 0
+	
+	if healtime <= 0
 		{healtime = healtime_max
 			
 		if hearts != 3
@@ -110,6 +117,8 @@ if (keyAtt) and attacktime = 0
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_snailhit}
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_laus{
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_laushit}
+		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_chickenwalk{
+		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_chickenhit}
 		
 		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
 			with instance_nearest(x,y,obj_par_Enemy){

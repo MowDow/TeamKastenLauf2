@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "aud_CityBGM",
+  "name": "aud_PlayerSteps",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 58.83873,
+  "duration": 0.681837,
   "parent": {
-    "name": "Music",
-    "path": "folders/Sounds/Music.yy",
+    "name": "SFX",
+    "path": "folders/Sounds/SFX.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "aud_CityBGM.wav",
-  "type": 1,
-  "volume": 0.5,
+  "soundFile": "aud_PlayerSteps.wav",
+  "type": 0,
+  "volume": 1.0,
 }
