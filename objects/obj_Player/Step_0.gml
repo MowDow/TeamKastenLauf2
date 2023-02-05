@@ -77,8 +77,11 @@ if (place_meeting(x, y+vSpeed, obj_collision)) //If my player is about to horizo
 
 
 //get hit
-if path_index != -1
+if (path_index != -1)
+{
 sprite_index = spr_PlayerGetHit
+if(!audio_is_playing(aud_PlayerHit)) audio_play_sound(aud_PlayerHit,1,false,1,0.33)
+}
 
 
 //Heal
@@ -161,6 +164,7 @@ if (keyAtt) and attacktime = 0
 if hearts <= 0
 	{
 		sprite_index = spr_playerdeathanim
+		if(!audio_is_playing(aud_PlayerDeath)) audio_play_sound(aud_PlayerDeath,1,false)
 		
 		hspeed = 0
 		vspeed = 0
