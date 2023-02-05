@@ -4,7 +4,7 @@
   "name": "operagx",
   "option_operagx_display_cursor": true,
   "option_operagx_editUrl": "https://create.gx.games/game/e36ee4d9-1e1f-4817-9bcb-44f061522d61/edit",
-  "option_operagx_game_name": "TeamKastenlauf",
+  "option_operagx_game_name": "TeamKastenlaufTest2",
   "option_operagx_guid": "e36ee4d9-1e1f-4817-9bcb-44f061522d61",
   "option_operagx_internalShareUrl": "",
   "option_operagx_interpolate_pixels": true,
