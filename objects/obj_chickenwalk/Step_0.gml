@@ -25,12 +25,12 @@ if instance_exists(obj_Player) {
 	
 	if obj_Player.x < x {
 	hspeed = hspeed - movespeed	
-	image_xscale = 0.3
+	image_xscale = -0.3
 	}
 
 	if obj_Player.x > x {
 	hspeed = hspeed + movespeed 
-	image_xscale = -0.3
+	image_xscale = 0.3
 	}
 
 	if distanceX < movespeed  and distanceX > -movespeed {
