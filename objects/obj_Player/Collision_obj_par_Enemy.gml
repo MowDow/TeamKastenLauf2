@@ -25,6 +25,9 @@ if (place_meeting(x,y,other)) and invincible = false and hearts > 0
 			if other.object_index = obj_en_laus{
 			other.sprite_index = spr_laushauen}
 			
+			if other.object_index = obj_chickenwalk{
+			other.sprite_index = spr_chickenhauen}
+			
 			sprite_index = spr_PlayerGetHit
 			
 			//invincibility frames
