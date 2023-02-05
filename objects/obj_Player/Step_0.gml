@@ -125,7 +125,8 @@ if (keyAtt) and attacktime = 0
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_laus{
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_laushit}
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_chickenwalk{
-		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_chickenhit}
+		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_chickenhit
+		audio_play_sound(aud_huhn,1,false)}
 		
 		if instance_nearest(x,y,obj_par_Enemy).x  <= x{
 			with instance_nearest(x,y,obj_par_Enemy){

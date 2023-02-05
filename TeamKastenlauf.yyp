@@ -119,6 +119,7 @@
     {"id":{"name":"obj_carton","path":"objects/obj_carton/obj_carton.yy",},"order":0,},
     {"id":{"name":"spr_villageway","path":"sprites/spr_villageway/spr_villageway.yy",},"order":0,},
     {"id":{"name":"obj_start4","path":"objects/obj_start4/obj_start4.yy",},"order":0,},
+    {"id":{"name":"aud_huhn","path":"sounds/aud_huhn/aud_huhn.yy",},"order":0,},
     {"id":{"name":"spr_PlayerAtt","path":"sprites/spr_PlayerAtt/spr_PlayerAtt.yy",},"order":0,},
     {"id":{"name":"obj_humanspawner","path":"objects/obj_humanspawner/obj_humanspawner.yy",},"order":0,},
     {"id":{"name":"obj_house1","path":"objects/obj_house1/obj_house1.yy",},"order":0,},
