@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings": [
+    {"name":"Audio","order":2,"path":"folders/Objects/GameController/Audio.yy",},
     {"name":"Workbenches","order":4,"path":"folders/Sprites/Menu/MainMenu/Workbenches.yy",},
     {"name":"BG","order":14,"path":"folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/BG.yy",},
     {"name":"Sprites","order":15,"path":"folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/Sprites.yy",},
-    {"name":"StartScene","order":17,"path":"folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/StartScene.yy",},
     {"name":"EndScene","order":1,"path":"folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/Sprites/EndScene.yy",},
-    {"name":"Audio","order":2,"path":"folders/Objects/GameController/Audio.yy",},
+    {"name":"StartScene","order":17,"path":"folders/Sprites/Menu/MainMenu/Workbenches/WB_Mow/StartScene.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"f_start","order":8,"path":"fonts/f_start/f_start.yy",},
