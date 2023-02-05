@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "GameController",
-    "path": "folders/Objects/GameController.yy",
+    "name": "Audio",
+    "path": "folders/Objects/GameController/Audio.yy",
   },
   "parentObjectId": null,
   "persistent": false,
