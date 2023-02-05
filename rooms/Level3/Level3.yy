@@ -639,6 +639,8 @@
     {"name":"inst_5E131511","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_675CCF37","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_78E172FE","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_60538A90","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_4ED7E40E","path":"rooms/Level3/Level3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -664,6 +666,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7BCBBFEC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5888.0,"y":1120.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_51AD1A68","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_fox","path":"objects/obj_en_fox/obj_en_fox.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":7264.0,"y":1024.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7933BD0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_fox","path":"objects/obj_en_fox/obj_en_fox.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":11744.0,"y":1056.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60538A90","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_fox","path":"objects/obj_en_fox/obj_en_fox.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1504.0,"y":1120.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4ED7E40E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":3072.0,"y":1024.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"collider","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22A670FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":1120.0,},
