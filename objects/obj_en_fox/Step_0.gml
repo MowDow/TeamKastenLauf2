@@ -17,7 +17,7 @@ if sprite_index = spr_foxtot and image_index = 8
 
 var distanceX = obj_Player.x - x;
 var distanceY = obj_Player.y - y;
-var movespeed = 5
+var movespeed = 3
 
 if instance_exists(obj_Player) {
 if obj_Player.x < x {

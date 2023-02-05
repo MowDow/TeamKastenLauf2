@@ -54,6 +54,7 @@
     {"name":"obj_skyDorf","order":4,"path":"objects/obj_skyDorf/obj_skyDorf.yy",},
     {"name":"spr_start3","order":3,"path":"sprites/spr_start3/spr_start3.yy",},
     {"name":"spr_Logo","order":14,"path":"sprites/spr_Logo/spr_Logo.yy",},
+    {"name":"obj_foxspawner","order":3,"path":"objects/obj_foxspawner/obj_foxspawner.yy",},
     {"name":"spr_snailtot","order":3,"path":"sprites/spr_snailtot/spr_snailtot.yy",},
     {"name":"baumNPC_0005","order":4,"path":"sprites/baumNPC_0005/baumNPC_0005.yy",},
     {"name":"obj_text1","order":7,"path":"objects/obj_text1/obj_text1.yy",},
