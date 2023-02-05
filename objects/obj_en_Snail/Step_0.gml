@@ -3,6 +3,16 @@
 hspeed = 0
 vspeed = 0
 
+if path_index = -1 and hp > 0
+sprite_index = spr_snaill
+
+
+//death anim
+if hp <= 0 and path_index = -1 and sprite_index != spr_snailtot
+	{sprite_index = spr_snailtot image_index = 0}
+if sprite_index = spr_snailtot and image_index = 4
+	{instance_destroy()}
+
 
 var distanceX = obj_Player.x - x;
 var distanceY = obj_Player.y - y;
