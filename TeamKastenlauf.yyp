@@ -207,7 +207,6 @@
     {"id":{"name":"spr_backgrounddark","path":"sprites/spr_backgrounddark/spr_backgrounddark.yy",},"order":0,},
     {"id":{"name":"spr_start3","path":"sprites/spr_start3/spr_start3.yy",},"order":0,},
     {"id":{"name":"spr_Logo","path":"sprites/spr_Logo/spr_Logo.yy",},"order":0,},
-    {"id":{"name":"obj_car_parent","path":"objects/obj_car_parent/obj_car_parent.yy",},"order":0,},
     {"id":{"name":"spr_fence","path":"sprites/spr_fence/spr_fence.yy",},"order":0,},
     {"id":{"name":"obj_grass1","path":"objects/obj_grass1/obj_grass1.yy",},"order":0,},
     {"id":{"name":"spr_snailtot","path":"sprites/spr_snailtot/spr_snailtot.yy",},"order":0,},
