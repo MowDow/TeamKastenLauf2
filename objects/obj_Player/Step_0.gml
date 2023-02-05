@@ -172,5 +172,5 @@ if hearts <= 0
 		vspeed = 0
 		
 		if image_index = 7
-		{room_goto(MainMenu)}
+		{room_goto(room_DeathAnim)}
 	}
