@@ -22,6 +22,9 @@ if (place_meeting(x,y,other)) and invincible = false and hearts > 0
 			if other.object_index = obj_en_Snail{
 			other.sprite_index = spr_snailhauen}
 			
+			if other.object_index = obj_en_fox{
+			other.sprite_index = spr_foxhauen}
+			
 			if other.object_index = obj_en_laus{
 			other.sprite_index = spr_laushauen}
 			

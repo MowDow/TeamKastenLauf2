@@ -89,7 +89,7 @@ if room = Level2 {healtime_max = 80}
 if room = Level3 {healtime_max = 120}
 
 
-if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim{
+if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim and hearts != 0{
 sprite_index = spr_PlayerSitAnim}
 
 if sprite_index = spr_PlayerSitAnim and image_index = 4
@@ -122,6 +122,8 @@ if (keyAtt) and attacktime = 0
 	{
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_Snail{
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_snailhit}
+		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_fox{
+		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_foxhit}
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_en_laus{
 		instance_nearest(x,y,obj_par_Enemy).sprite_index = spr_laushit}
 		if instance_nearest(x,y,obj_par_Enemy).object_index = obj_chickenwalk{
