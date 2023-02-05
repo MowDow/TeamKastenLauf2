@@ -1,2 +1,2 @@
 canskip = false
-alarm [0] = 800
+alarm [0] = 1500
