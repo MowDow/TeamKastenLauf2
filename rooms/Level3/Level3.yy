@@ -632,9 +632,12 @@
     {"name":"inst_46962E07","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_6B41CF1E","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_664B3467","path":"rooms/Level3/Level3.yy",},
-    {"name":"inst_7774F78","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_5EF2F1C8","path":"rooms/Level3/Level3.yy",},
     {"name":"inst_393A51B5","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_35AAE76","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_1C08A5E3","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_127268C5","path":"rooms/Level3/Level3.yy",},
+    {"name":"inst_7BCBBFEC","path":"rooms/Level3/Level3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -647,6 +650,10 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_38DA4001","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_laus","path":"objects/obj_en_laus/obj_en_laus.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":9536.0,"y":800.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5A96374C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_Snail","path":"objects/obj_en_Snail/obj_en_Snail.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":11328.0,"y":960.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5F824F4B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_en_laus","path":"objects/obj_en_laus/obj_en_laus.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":11808.0,"y":800.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_35AAE76","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10464.0,"y":1088.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1C08A5E3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":7776.0,"y":1088.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_127268C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5536.0,"y":1088.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7BCBBFEC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2240.0,"y":1024.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"gamecontroller","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_514234C0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_snailspawner","path":"objects/obj_snailspawner/obj_snailspawner.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-96.0,"y":224.0,},
@@ -1254,7 +1261,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_40876C6B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_corn","path":"objects/obj_corn/obj_corn.yy",},"properties":[],"rotation":0.0,"scaleX":0.808,"scaleY":0.68,"x":4800.0,"y":288.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_40F63309","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_grass1","path":"objects/obj_grass1/obj_grass1.yy",},"properties":[],"rotation":0.0,"scaleX":0.488,"scaleY":0.552,"x":4192.0,"y":544.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_664B3467","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_forestnoreturn","path":"objects/obj_forestnoreturn/obj_forestnoreturn.yy",},"properties":[],"rotation":0.0,"scaleX":1.192,"scaleY":1.256,"x":11872.0,"y":320.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7774F78","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_chickenwalk","path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":512.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"backghround1","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_678C488B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_backgrounddark","path":"objects/obj_backgrounddark/obj_backgrounddark.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.808,"x":0.0,"y":0.0,},
@@ -1298,7 +1304,7 @@
     "Height": 1080,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 12900,
+    "Width": 12400,
   },
   "sequenceId": null,
   "views": [

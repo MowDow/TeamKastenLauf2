@@ -43,7 +43,7 @@ if ((hSpeed != 0 or vSpeed != 0))
 	
 		if(!audio_is_playing(aud_PlayerSteps))
 		{
-			audio_play_sound(aud_PlayerSteps,1,true,1.5,0.2,random_range(0.9,1.1));
+			//audio_play_sound(aud_PlayerSteps,1,true,1.5,0.2,random_range(0.9,1.1));
 		}
 	}
 }
@@ -82,6 +82,10 @@ sprite_index = spr_PlayerGetHit
 
 
 //Heal
+if room = Level2 {healtime_max = 80}
+if room = Level3 {healtime_max = 120}
+
+
 if (keyHeal) and sprite_index != spr_PlayerSit and sprite_index != spr_PlayerSitAnim{
 sprite_index = spr_PlayerSitAnim}
 
