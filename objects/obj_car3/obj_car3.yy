@@ -2,19 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_car3",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "cars",
     "path": "folders/Sprites/Menu/MainMenu/Workbenches/WB_Andrew/Objects/citystuff/cars.yy",
   },
-  "parentObjectId": {
-    "name": "obj_car_parent",
-    "path": "objects/obj_car_parent/obj_car_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
