@@ -87,6 +87,7 @@
     {"id":{"name":"path_springen","path":"paths/path_springen/path_springen.yy",},"order":0,},
     {"id":{"name":"obj_lamp","path":"objects/obj_lamp/obj_lamp.yy",},"order":0,},
     {"id":{"name":"f_start","path":"fonts/f_start/f_start.yy",},"order":0,},
+    {"id":{"name":"obj_control_End","path":"objects/obj_control_End/obj_control_End.yy",},"order":0,},
     {"id":{"name":"Raum_Mow","path":"rooms/Raum_Mow/Raum_Mow.yy",},"order":0,},
     {"id":{"name":"baumNPC_0003","path":"sprites/baumNPC_0003/baumNPC_0003.yy",},"order":0,},
     {"id":{"name":"spr_bush2","path":"sprites/spr_bush2/spr_bush2.yy",},"order":0,},

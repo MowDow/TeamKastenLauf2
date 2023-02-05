@@ -9,6 +9,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"f_start","order":8,"path":"fonts/f_start/f_start.yy",},
+    {"name":"obj_control_End","order":10,"path":"objects/obj_control_End/obj_control_End.yy",},
     {"name":"Raum_Mow","order":12,"path":"rooms/Raum_Mow/Raum_Mow.yy",},
     {"name":"baumNPC_0003","order":2,"path":"sprites/baumNPC_0003/baumNPC_0003.yy",},
     {"name":"spr_foxhauen","order":12,"path":"sprites/spr_foxhauen/spr_foxhauen.yy",},
