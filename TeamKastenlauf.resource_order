@@ -21,6 +21,7 @@
     {"name":"spr_foxhit","order":11,"path":"sprites/spr_foxhit/spr_foxhit.yy",},
     {"name":"spr_chickentot","order":7,"path":"sprites/spr_chickentot/spr_chickentot.yy",},
     {"name":"obj_start4","order":8,"path":"objects/obj_start4/obj_start4.yy",},
+    {"name":"aud_huhn","order":4,"path":"sounds/aud_huhn/aud_huhn.yy",},
     {"name":"obj_humanspawner","order":1,"path":"objects/obj_humanspawner/obj_humanspawner.yy",},
     {"name":"aud_PlayerSteps","order":1,"path":"sounds/aud_PlayerSteps/aud_PlayerSteps.yy",},
     {"name":"obj_chickenwalk","order":1,"path":"objects/obj_chickenwalk/obj_chickenwalk.yy",},
