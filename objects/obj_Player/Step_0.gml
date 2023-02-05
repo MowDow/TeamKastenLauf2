@@ -43,7 +43,7 @@ if ((hSpeed != 0 or vSpeed != 0))
 	
 		if(!audio_is_playing(aud_PlayerSteps))
 		{
-			audio_play_sound(aud_PlayerSteps,1,true,1.5,0.2,random_range(0.9,1.1));
+			//audio_play_sound(aud_PlayerSteps,1,true,1.5,0.2,random_range(0.9,1.1));
 		}
 	}
 }
