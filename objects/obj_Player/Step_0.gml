@@ -39,7 +39,12 @@ if ((hSpeed != 0 or vSpeed != 0))
 	x += hSpeed;
 	y += vSpeed;
 	if (!alarm[0]){
-	sprite_index = spr_PlayerRun;
+		sprite_index = spr_PlayerRun;
+	
+		if(!audio_is_playing(aud_PlayerSteps))
+		{
+			audio_play_sound(aud_PlayerSteps,1,true,1.5,0.2,random_range(0.9,1.1));
+		}
 	}
 }
 	
@@ -52,6 +57,7 @@ if (hSpeed = 0 and vSpeed = 0)
 {
 	if (!alarm[0]){
 	sprite_index = spr_Player;
+	audio_stop_sound(aud_PlayerSteps);
 	}
 }	
 }
